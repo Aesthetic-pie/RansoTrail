@@ -1,0 +1,21 @@
+==================================================
+RANSOMWARE INCIDENT REPORT
+==================================================
+
+Date: 2026-06-16
+Time: 22:01:50
+Threat Level: HIGH
+Risk Score: 75
+
+DETECTION SUMMARY
+-----------------------------
+File Events: 35
+Registry Changes: 2
+PowerShell Activity: True
+Privilege Escalation: False
+
+PREDICTION ENGINE
+-----------------------------
+Time-to-Compromise Estimate: 5.4 minutes
+Financial Impact Estimate: R50,000
+
