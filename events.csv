@@ -1,0 +1,1579 @@
+timestamp,event_type,file_path
+Tue Jun  2 01:28:40 2026,CREATED,../data\New Text Document.txt
+Tue Jun  2 01:28:44 2026,RENAMED,../data\love.txt
+Tue Jun  2 01:28:50 2026,CREATED,../data\New Text Document.txt
+Tue Jun  2 01:28:56 2026,RENAMED,../data\Happy is my ex.txt
+Tue Jun  2 01:29:05 2026,DELETED,../data\love.txt
+Tue Jun  2 01:29:42 2026,DELETED,../data\Happy is my ex.txt
+Tue Jun  2 02:11:43 2026,CREATED,../data\New Text Document.txt,2
+Tue Jun  2 02:11:49 2026,CREATED,../data\New Text Document (2).txt,4
+Tue Jun  2 02:11:54 2026,CREATED,../data\New Text Document (3).txt,6
+Tue Jun  2 02:11:59 2026,CREATED,../data\New Text Document (4).txt,8
+Tue Jun  2 02:12:10 2026,CREATED,../data\New Text Document (3) - Copy.txt,10
+Tue Jun  2 02:12:10 2026,MODIFIED,../data\New Text Document (3) - Copy.txt,15
+Tue Jun  2 02:12:11 2026,CREATED,../data\New Text Document (4) - Copy.txt,17
+Tue Jun  2 02:12:11 2026,MODIFIED,../data\New Text Document (4) - Copy.txt,22
+Tue Jun  2 02:12:13 2026,CREATED,../data\New Text Document (5) - Copy.txt,24
+Tue Jun  2 02:12:13 2026,MODIFIED,../data\New Text Document (5) - Copy.txt,29
+Tue Jun  2 02:12:14 2026,CREATED,../data\New Text Document (6) - Copy.txt,31
+Tue Jun  2 02:12:14 2026,MODIFIED,../data\New Text Document (6) - Copy.txt,36
+Tue Jun  2 02:12:16 2026,CREATED,../data\New Text Document (7) - Copy.txt,38
+Tue Jun  2 02:12:16 2026,MODIFIED,../data\New Text Document (7) - Copy.txt,43
+Tue Jun  2 02:12:25 2026,CREATED,../data\New Text Document (8) - Copy.txt,45
+Tue Jun  2 02:12:25 2026,MODIFIED,../data\New Text Document (8) - Copy.txt,50
+Tue Jun  2 02:12:26 2026,CREATED,../data\New Text Document (9) - Copy.txt,52
+Tue Jun  2 02:12:26 2026,MODIFIED,../data\New Text Document (9) - Copy.txt,57
+Tue Jun  2 02:12:27 2026,CREATED,../data\New Text Document (10) - Copy.txt,59
+Tue Jun  2 02:12:27 2026,MODIFIED,../data\New Text Document (10) - Copy.txt,64
+Tue Jun  2 02:12:28 2026,CREATED,../data\New Text Document (11) - Copy.txt,66
+Tue Jun  2 02:12:28 2026,MODIFIED,../data\New Text Document (11) - Copy.txt,71
+Tue Jun  2 02:12:29 2026,CREATED,../data\New Text Document (12) - Copy.txt,73
+Tue Jun  2 02:12:29 2026,MODIFIED,../data\New Text Document (12) - Copy.txt,78
+Tue Jun  2 02:12:30 2026,CREATED,../data\New Text Document (13) - Copy.txt,80
+Tue Jun  2 02:12:30 2026,MODIFIED,../data\New Text Document (13) - Copy.txt,85
+Tue Jun  2 02:12:46 2026,RENAMED,../data\new me.txt,93
+Tue Jun  2 02:12:53 2026,RENAMED,../data\ihashi.txt,101
+Tue Jun  2 02:12:58 2026,DELETED,../data\New Text Document (3) - Copy.txt,111
+Tue Jun  2 02:13:00 2026,DELETED,../data\New Text Document (6) - Copy.txt,121
+Tue Jun  2 02:13:02 2026,DELETED,../data\New Text Document (9) - Copy.txt,131
+Tue Jun  2 02:13:06 2026,DELETED,../data\New Text Document (7) - Copy.txt,141
+Tue Jun  2 02:14:09 2026,RENAMED,../data\nvidia.txt,149
+Tue Jun  2 02:26:02 2026,DELETED,../data\New Text Document (13) - Copy.txt,159
+Tue Jun  2 02:26:02 2026,DELETED,../data\new me.txt,169
+Tue Jun  2 02:26:02 2026,DELETED,../data\New Text Document (2).txt,179
+Tue Jun  2 02:26:02 2026,DELETED,../data\ihashi.txt,189
+Tue Jun  2 02:26:02 2026,DELETED,../data\New Text Document (4).txt,199
+Tue Jun  2 02:26:02 2026,DELETED,../data\New Text Document (4) - Copy.txt,209
+Tue Jun  2 02:26:02 2026,DELETED,../data\New Text Document (5) - Copy.txt,219
+Tue Jun  2 02:26:02 2026,DELETED,../data\New Text Document (8) - Copy.txt,229
+Tue Jun  2 02:26:02 2026,DELETED,../data\New Text Document (10) - Copy.txt,239
+Tue Jun  2 02:26:02 2026,DELETED,../data\nvidia.txt,249
+Tue Jun  2 02:26:02 2026,DELETED,../data\New Text Document (12) - Copy.txt,259
+Tue Jun  2 20:46:41 2026,CREATED,../data\New folder,2
+Tue Jun  2 20:46:43 2026,DELETED,../data\New folder,12
+Tue Jun  2 20:46:48 2026,CREATED,../data\New Text Document.txt,14
+Tue Jun  2 20:46:53 2026,CREATED,../data\New Text Document (2).txt,16
+Tue Jun  2 20:46:59 2026,CREATED,../data\New Text Document (3).txt,18
+Tue Jun  2 20:47:05 2026,CREATED,../data\New Text Document (4).txt,20
+Tue Jun  2 20:47:18 2026,CREATED,../data\New Text Document (3) - Copy.txt,22
+Tue Jun  2 20:47:18 2026,MODIFIED,../data\New Text Document (3) - Copy.txt,27
+Tue Jun  2 20:47:19 2026,CREATED,../data\New Text Document (4) - Copy.txt,29
+Tue Jun  2 20:47:19 2026,MODIFIED,../data\New Text Document (4) - Copy.txt,34
+Tue Jun  2 20:47:20 2026,CREATED,../data\New Text Document (5) - Copy.txt,36
+Tue Jun  2 20:47:20 2026,MODIFIED,../data\New Text Document (5) - Copy.txt,41
+Tue Jun  2 20:47:20 2026,CREATED,../data\New Text Document (6) - Copy.txt,43
+Tue Jun  2 20:47:20 2026,MODIFIED,../data\New Text Document (6) - Copy.txt,48
+Tue Jun  2 20:47:21 2026,CREATED,../data\New Text Document (7) - Copy.txt,50
+Tue Jun  2 20:47:21 2026,MODIFIED,../data\New Text Document (7) - Copy.txt,55
+Tue Jun  2 20:47:22 2026,CREATED,../data\New Text Document (8) - Copy.txt,57
+Tue Jun  2 20:47:22 2026,MODIFIED,../data\New Text Document (8) - Copy.txt,62
+Tue Jun  2 20:47:22 2026,CREATED,../data\New Text Document (9) - Copy.txt,64
+Tue Jun  2 20:47:22 2026,MODIFIED,../data\New Text Document (9) - Copy.txt,69
+Tue Jun  2 20:47:23 2026,CREATED,../data\New Text Document (10) - Copy.txt,71
+Tue Jun  2 20:47:23 2026,MODIFIED,../data\New Text Document (10) - Copy.txt,76
+Tue Jun  2 20:47:23 2026,CREATED,../data\New Text Document (11) - Copy.txt,78
+Tue Jun  2 20:47:23 2026,MODIFIED,../data\New Text Document (11) - Copy.txt,83
+Tue Jun  2 20:47:24 2026,CREATED,../data\New Text Document (12) - Copy.txt,85
+Tue Jun  2 20:47:24 2026,MODIFIED,../data\New Text Document (12) - Copy.txt,90
+Tue Jun  2 20:47:24 2026,CREATED,../data\New Text Document (13) - Copy.txt,92
+Tue Jun  2 20:47:24 2026,MODIFIED,../data\New Text Document (13) - Copy.txt,97
+Tue Jun  2 20:47:39 2026,RENAMED,../data\love.txt,105
+Tue Jun  2 20:47:49 2026,RENAMED,../data\horse.txt,113
+Tue Jun  2 20:55:58 2026,DELETED,../data\New Text Document (13) - Copy.txt,123
+Tue Jun  2 20:55:58 2026,DELETED,../data\New Text Document.txt,133
+Tue Jun  2 20:55:58 2026,DELETED,../data\New Text Document (2).txt,143
+Tue Jun  2 20:55:58 2026,DELETED,../data\New Text Document (3).txt,153
+Tue Jun  2 20:55:58 2026,DELETED,../data\New Text Document (4).txt,163
+Tue Jun  2 20:55:58 2026,DELETED,../data\New Text Document (3) - Copy.txt,173
+Tue Jun  2 20:55:58 2026,DELETED,../data\New Text Document (4) - Copy.txt,183
+Tue Jun  2 20:55:58 2026,DELETED,../data\New Text Document (5) - Copy.txt,193
+Tue Jun  2 20:55:58 2026,DELETED,../data\love.txt,203
+Tue Jun  2 20:55:58 2026,DELETED,../data\New Text Document (7) - Copy.txt,213
+Tue Jun  2 20:55:58 2026,DELETED,../data\New Text Document (8) - Copy.txt,223
+Tue Jun  2 20:55:58 2026,DELETED,../data\horse.txt,233
+Tue Jun  2 20:55:58 2026,DELETED,../data\New Text Document (10) - Copy.txt,243
+Tue Jun  2 20:55:58 2026,DELETED,../data\New Text Document (11) - Copy.txt,253
+Tue Jun  2 20:55:58 2026,DELETED,../data\New Text Document (12) - Copy.txt,263
+Wed Jun  3 21:13:49 2026,CREATED,../data\New Text Document.txt,2
+Wed Jun  3 21:13:55 2026,RENAMED,../data\chapter 1.txt,10
+Wed Jun  3 21:13:59 2026,CREATED,../data\New Text Document.txt,12
+Wed Jun  3 21:14:05 2026,RENAMED,../data\the beginning.txt,20
+Wed Jun  3 21:14:11 2026,CREATED,../data\New Text Document.txt,22
+Wed Jun  3 21:14:20 2026,RENAMED,../data\of my journey.txt,30
+Wed Jun  3 21:14:23 2026,CREATED,../data\New Text Document.txt,32
+Wed Jun  3 21:14:29 2026,RENAMED,../data\started hard.txt,40
+Wed Jun  3 21:14:33 2026,CREATED,../data\New Text Document.txt,42
+Wed Jun  3 21:14:43 2026,RENAMED,../data\we still on the journey.txt,50
+Wed Jun  3 21:14:47 2026,CREATED,../data\New Text Document.txt,52
+Wed Jun  3 21:14:57 2026,RENAMED,../data\but I know that we'll finish good.txt,60
+Wed Jun  3 21:15:04 2026,CREATED,../data\New Text Document.txt,62
+Wed Jun  3 21:15:09 2026,RENAMED,../data\just hoping so.txt,70
+Wed Jun  3 21:15:17 2026,CREATED,../data\but I know that we'll finish good - Copy.txt,72
+Wed Jun  3 21:15:17 2026,MODIFIED,../data\but I know that we'll finish good - Copy.txt,77
+Wed Jun  3 21:15:17 2026,CREATED,../data\but I know that we'll finish good - Copy (2).txt,79
+Wed Jun  3 21:15:18 2026,MODIFIED,../data\but I know that we'll finish good - Copy (2).txt,84
+Wed Jun  3 21:15:18 2026,CREATED,../data\but I know that we'll finish good - Copy (3).txt,86
+Wed Jun  3 21:15:18 2026,MODIFIED,../data\but I know that we'll finish good - Copy (3).txt,91
+Wed Jun  3 21:15:19 2026,CREATED,../data\but I know that we'll finish good - Copy (4).txt,93
+Wed Jun  3 21:15:19 2026,MODIFIED,../data\but I know that we'll finish good - Copy (4).txt,98
+Wed Jun  3 21:15:19 2026,CREATED,../data\but I know that we'll finish good - Copy (5).txt,100
+Wed Jun  3 21:15:19 2026,MODIFIED,../data\but I know that we'll finish good - Copy (5).txt,105
+Wed Jun  3 21:15:20 2026,CREATED,../data\but I know that we'll finish good - Copy (6).txt,107
+Wed Jun  3 21:15:20 2026,MODIFIED,../data\but I know that we'll finish good - Copy (6).txt,112
+Wed Jun  3 21:15:20 2026,CREATED,../data\but I know that we'll finish good - Copy (7).txt,114
+Wed Jun  3 21:15:20 2026,MODIFIED,../data\but I know that we'll finish good - Copy (7).txt,119
+Wed Jun  3 21:15:21 2026,CREATED,../data\but I know that we'll finish good - Copy (8).txt,121
+Wed Jun  3 21:15:21 2026,MODIFIED,../data\but I know that we'll finish good - Copy (8).txt,126
+Wed Jun  3 21:15:21 2026,CREATED,../data\but I know that we'll finish good - Copy (9).txt,128
+Wed Jun  3 21:15:21 2026,MODIFIED,../data\but I know that we'll finish good - Copy (9).txt,133
+Wed Jun  3 21:15:22 2026,CREATED,../data\but I know that we'll finish good - Copy (10).txt,135
+Wed Jun  3 21:15:22 2026,MODIFIED,../data\but I know that we'll finish good - Copy (10).txt,140
+Wed Jun  3 21:15:28 2026,CREATED,../data\but I know that we'll finish good - Copy (11).txt,142
+Wed Jun  3 21:15:28 2026,MODIFIED,../data\but I know that we'll finish good - Copy (11).txt,147
+Wed Jun  3 21:15:29 2026,CREATED,../data\but I know that we'll finish good - Copy (12).txt,149
+Wed Jun  3 21:15:29 2026,MODIFIED,../data\but I know that we'll finish good - Copy (12).txt,154
+Wed Jun  3 21:15:44 2026,DELETED,../data\but I know that we'll finish good - Copy (12).txt,164
+Wed Jun  3 21:15:44 2026,DELETED,../data\but I know that we'll finish good.txt,174
+Wed Jun  3 21:15:45 2026,DELETED,../data\just hoping so.txt,184
+Wed Jun  3 21:15:45 2026,DELETED,../data\but I know that we'll finish good - Copy.txt,194
+Wed Jun  3 21:15:45 2026,DELETED,../data\but I know that we'll finish good - Copy (2).txt,204
+Wed Jun  3 21:15:45 2026,DELETED,../data\but I know that we'll finish good - Copy (3).txt,214
+Wed Jun  3 21:15:45 2026,DELETED,../data\but I know that we'll finish good - Copy (4).txt,224
+Wed Jun  3 21:15:45 2026,DELETED,../data\but I know that we'll finish good - Copy (5).txt,234
+Wed Jun  3 21:15:45 2026,DELETED,../data\but I know that we'll finish good - Copy (6).txt,244
+Wed Jun  3 21:15:45 2026,DELETED,../data\but I know that we'll finish good - Copy (7).txt,254
+Wed Jun  3 21:15:45 2026,DELETED,../data\but I know that we'll finish good - Copy (8).txt,264
+Wed Jun  3 21:15:45 2026,DELETED,../data\but I know that we'll finish good - Copy (9).txt,274
+Wed Jun  3 21:15:45 2026,DELETED,../data\but I know that we'll finish good - Copy (10).txt,284
+Wed Jun  3 21:15:45 2026,DELETED,../data\but I know that we'll finish good - Copy (11).txt,294
+Wed Jun  3 21:15:51 2026,DELETED,../data\started hard.txt,304
+Wed Jun  3 21:15:55 2026,DELETED,../data\the beginning.txt,314
+Wed Jun  3 21:16:09 2026,DELETED,../data\chapter 1.txt,324
+Wed Jun  3 21:16:09 2026,DELETED,../data\of my journey.txt,334
+Wed Jun  3 21:16:09 2026,DELETED,../data\we still on the journey.txt,344
+Wed Jun  3 23:22:18 2026,CREATED,../data\New Text Document.txt,2
+Wed Jun  3 23:22:24 2026,CREATED,../data\New Text Document (2).txt,4
+Wed Jun  3 23:22:28 2026,CREATED,../data\New Text Document (3).txt,6
+Wed Jun  3 23:22:32 2026,CREATED,../data\New Text Document (4).txt,8
+Wed Jun  3 23:22:36 2026,CREATED,../data\New Text Document (5).txt,10
+Wed Jun  3 23:22:40 2026,CREATED,../data\New Text Document (6).txt,12
+Wed Jun  3 23:22:45 2026,CREATED,../data\New Text Document (7).txt,14
+Wed Jun  3 23:22:53 2026,CREATED,../data\New Text Document (4) - Copy.txt,16
+Wed Jun  3 23:22:53 2026,MODIFIED,../data\New Text Document (4) - Copy.txt,21
+Wed Jun  3 23:22:53 2026,CREATED,../data\New Text Document (5) - Copy.txt,23
+Wed Jun  3 23:22:53 2026,MODIFIED,../data\New Text Document (5) - Copy.txt,28
+Wed Jun  3 23:22:54 2026,CREATED,../data\New Text Document (6) - Copy.txt,30
+Wed Jun  3 23:22:54 2026,MODIFIED,../data\New Text Document (6) - Copy.txt,35
+Wed Jun  3 23:22:54 2026,CREATED,../data\New Text Document (7) - Copy.txt,37
+Wed Jun  3 23:22:54 2026,MODIFIED,../data\New Text Document (7) - Copy.txt,42
+Wed Jun  3 23:22:54 2026,CREATED,../data\New Text Document (8) - Copy.txt,44
+Wed Jun  3 23:22:54 2026,MODIFIED,../data\New Text Document (8) - Copy.txt,49
+Wed Jun  3 23:22:55 2026,CREATED,../data\New Text Document (9) - Copy.txt,51
+Wed Jun  3 23:22:55 2026,MODIFIED,../data\New Text Document (9) - Copy.txt,56
+Wed Jun  3 23:22:55 2026,CREATED,../data\New Text Document (10) - Copy.txt,58
+Wed Jun  3 23:22:55 2026,MODIFIED,../data\New Text Document (10) - Copy.txt,63
+Wed Jun  3 23:22:55 2026,CREATED,../data\New Text Document (11) - Copy.txt,65
+Wed Jun  3 23:22:55 2026,MODIFIED,../data\New Text Document (11) - Copy.txt,70
+Wed Jun  3 23:22:56 2026,CREATED,../data\New Text Document (12) - Copy.txt,72
+Wed Jun  3 23:22:56 2026,MODIFIED,../data\New Text Document (12) - Copy.txt,77
+Wed Jun  3 23:22:56 2026,CREATED,../data\New Text Document (13) - Copy.txt,79
+Wed Jun  3 23:22:56 2026,MODIFIED,../data\New Text Document (13) - Copy.txt,84
+Wed Jun  3 23:22:56 2026,CREATED,../data\New Text Document (14) - Copy.txt,86
+Wed Jun  3 23:22:56 2026,MODIFIED,../data\New Text Document (14) - Copy.txt,91
+Wed Jun  3 23:22:57 2026,CREATED,../data\New Text Document (15) - Copy.txt,93
+Wed Jun  3 23:22:57 2026,MODIFIED,../data\New Text Document (15) - Copy.txt,98
+Wed Jun  3 23:22:57 2026,CREATED,../data\New Text Document (16) - Copy.txt,100
+Wed Jun  3 23:22:57 2026,MODIFIED,../data\New Text Document (16) - Copy.txt,105
+Wed Jun  3 23:22:58 2026,CREATED,../data\New Text Document (17) - Copy.txt,107
+Wed Jun  3 23:22:58 2026,MODIFIED,../data\New Text Document (17) - Copy.txt,112
+Wed Jun  3 23:22:58 2026,CREATED,../data\New Text Document (18) - Copy.txt,114
+Wed Jun  3 23:22:58 2026,MODIFIED,../data\New Text Document (18) - Copy.txt,119
+Wed Jun  3 23:23:12 2026,RENAMED,../data\Love.txt,127
+Wed Jun  3 23:23:21 2026,RENAMED,../data\your.txt,135
+Wed Jun  3 23:23:31 2026,RENAMED,../data\own - Copy.txt,143
+Wed Jun  3 23:23:51 2026,RENAMED,../data\journey.txt,151
+Wed Jun  3 23:24:53 2026,DELETED,../data\New Text Document (18) - Copy.txt,161
+Wed Jun  3 23:24:53 2026,DELETED,../data\New Text Document (6).txt,171
+Wed Jun  3 23:24:53 2026,DELETED,../data\New Text Document (7).txt,181
+Wed Jun  3 23:24:53 2026,DELETED,../data\New Text Document (4) - Copy.txt,191
+Wed Jun  3 23:24:53 2026,DELETED,../data\New Text Document (5) - Copy.txt,201
+Wed Jun  3 23:24:53 2026,DELETED,../data\New Text Document (6) - Copy.txt,211
+Wed Jun  3 23:24:53 2026,DELETED,../data\own - Copy.txt,221
+Wed Jun  3 23:24:53 2026,DELETED,../data\New Text Document (8) - Copy.txt,231
+Wed Jun  3 23:24:53 2026,DELETED,../data\New Text Document (9) - Copy.txt,241
+Wed Jun  3 23:24:53 2026,DELETED,../data\journey.txt,251
+Wed Jun  3 23:24:53 2026,DELETED,../data\New Text Document (11) - Copy.txt,261
+Wed Jun  3 23:24:53 2026,DELETED,../data\New Text Document (12) - Copy.txt,271
+Wed Jun  3 23:24:53 2026,DELETED,../data\New Text Document (13) - Copy.txt,281
+Wed Jun  3 23:24:53 2026,DELETED,../data\New Text Document (14) - Copy.txt,291
+Wed Jun  3 23:24:53 2026,DELETED,../data\New Text Document (15) - Copy.txt,301
+Wed Jun  3 23:24:53 2026,DELETED,../data\New Text Document (16) - Copy.txt,311
+Wed Jun  3 23:24:53 2026,DELETED,../data\New Text Document (17) - Copy.txt,321
+Sat Jun  6 00:24:21 2026,CREATED,../data\New Text Document - Copy.txt,2
+Sat Jun  6 00:24:21 2026,MODIFIED,../data\New Text Document - Copy.txt,7
+Sat Jun  6 00:24:22 2026,CREATED,../data\New Text Document - Copy (2).txt,9
+Sat Jun  6 00:24:22 2026,MODIFIED,../data\New Text Document - Copy (2).txt,14
+Sat Jun  6 00:24:23 2026,CREATED,../data\New Text Document - Copy (3).txt,16
+Sat Jun  6 00:24:23 2026,MODIFIED,../data\New Text Document - Copy (3).txt,21
+Sat Jun  6 00:24:24 2026,CREATED,../data\New Text Document - Copy (4).txt,23
+Sat Jun  6 00:24:24 2026,MODIFIED,../data\New Text Document - Copy (4).txt,28
+Sat Jun  6 00:24:25 2026,CREATED,../data\New Text Document - Copy (5).txt,30
+Sat Jun  6 00:24:25 2026,MODIFIED,../data\New Text Document - Copy (5).txt,35
+Sat Jun  6 00:24:26 2026,CREATED,../data\New Text Document - Copy (6).txt,37
+Sat Jun  6 00:24:26 2026,MODIFIED,../data\New Text Document - Copy (6).txt,42
+Sat Jun  6 00:24:29 2026,CREATED,../data\New Text Document - Copy (7).txt,44
+Sat Jun  6 00:24:29 2026,MODIFIED,../data\New Text Document - Copy (7).txt,49
+Sat Jun  6 00:24:39 2026,RENAMED,../data\I.txt,57
+Sat Jun  6 00:24:53 2026,RENAMED,../data\love you soo so much.txt,65
+Sat Jun  6 00:25:07 2026,DELETED,../data\love you soo so much.txt,75
+Sat Jun  6 00:25:07 2026,DELETED,../data\New Text Document - Copy (2).txt,85
+Sat Jun  6 00:25:07 2026,DELETED,../data\New Text Document - Copy (3).txt,95
+Sat Jun  6 00:25:07 2026,DELETED,../data\New Text Document - Copy (4).txt,105
+Sat Jun  6 00:25:07 2026,DELETED,../data\I.txt,115
+Sat Jun  6 00:27:34 2026,DELETED,../data\your.txt,125
+Sat Jun  6 00:27:34 2026,DELETED,../data\Love.txt,135
+Sat Jun  6 00:27:34 2026,DELETED,../data\New Text Document (2).txt,145
+Sat Jun  6 00:27:34 2026,DELETED,../data\New Text Document (3).txt,155
+Sat Jun  6 00:27:34 2026,DELETED,../data\New Text Document.txt,165
+Sat Jun  6 00:27:40 2026,DELETED,../data\New Text Document - Copy (7).txt,175
+Sat Jun  6 00:27:40 2026,DELETED,../data\New Text Document - Copy.txt,185
+Sat Jun  6 00:39:59 2026,CREATED,../data\New Text Document.txt,2
+Sat Jun  6 00:40:07 2026,RENAMED,../data\images 1.txt,10
+Sat Jun  6 00:40:11 2026,CREATED,../data\New Text Document.txt,12
+Sat Jun  6 00:40:14 2026,RENAMED,../data\trees.txt,20
+Sat Jun  6 00:40:18 2026,CREATED,../data\New Text Document.txt,22
+Sat Jun  6 00:40:20 2026,RENAMED,../data\cyber.txt,30
+Sat Jun  6 00:40:24 2026,CREATED,../data\New Text Document.txt,32
+Sat Jun  6 00:40:27 2026,RENAMED,../data\mountains.txt,40
+Sat Jun  6 00:40:31 2026,CREATED,../data\New Text Document.txt,42
+Sat Jun  6 00:40:37 2026,RENAMED,../data\rivers.txt,50
+Sat Jun  6 00:40:42 2026,CREATED,../data\mountains - Copy.txt,52
+Sat Jun  6 00:40:42 2026,MODIFIED,../data\mountains - Copy.txt,57
+Sat Jun  6 00:40:43 2026,CREATED,../data\mountains - Copy (2).txt,59
+Sat Jun  6 00:40:43 2026,MODIFIED,../data\mountains - Copy (2).txt,64
+Sat Jun  6 00:40:44 2026,CREATED,../data\mountains - Copy (3).txt,66
+Sat Jun  6 00:40:44 2026,MODIFIED,../data\mountains - Copy (3).txt,71
+Sat Jun  6 00:40:44 2026,CREATED,../data\mountains - Copy (4).txt,73
+Sat Jun  6 00:40:44 2026,MODIFIED,../data\mountains - Copy (4).txt,78
+Sat Jun  6 00:40:46 2026,CREATED,../data\mountains - Copy (5).txt,80
+Sat Jun  6 00:40:46 2026,MODIFIED,../data\mountains - Copy (5).txt,85
+Sat Jun  6 00:40:46 2026,CREATED,../data\mountains - Copy (6).txt,87
+Sat Jun  6 00:40:46 2026,MODIFIED,../data\mountains - Copy (6).txt,92
+Sat Jun  6 00:40:47 2026,CREATED,../data\mountains - Copy (7).txt,94
+Sat Jun  6 00:40:47 2026,MODIFIED,../data\mountains - Copy (7).txt,99
+Sat Jun  6 00:40:54 2026,CREATED,../data\rivers - Copy.txt,101
+Sat Jun  6 00:40:54 2026,MODIFIED,../data\rivers - Copy.txt,106
+Sat Jun  6 00:40:54 2026,CREATED,../data\rivers - Copy (2).txt,108
+Sat Jun  6 00:40:54 2026,MODIFIED,../data\rivers - Copy (2).txt,113
+Sat Jun  6 00:40:55 2026,CREATED,../data\rivers - Copy (3).txt,115
+Sat Jun  6 00:40:55 2026,MODIFIED,../data\rivers - Copy (3).txt,120
+Sat Jun  6 00:40:56 2026,CREATED,../data\rivers - Copy (4).txt,122
+Sat Jun  6 00:40:56 2026,MODIFIED,../data\rivers - Copy (4).txt,127
+Sat Jun  6 00:40:57 2026,CREATED,../data\rivers - Copy (5).txt,129
+Sat Jun  6 00:40:57 2026,MODIFIED,../data\rivers - Copy (5).txt,134
+Sat Jun  6 00:40:58 2026,CREATED,../data\rivers - Copy (6).txt,136
+Sat Jun  6 00:40:58 2026,MODIFIED,../data\rivers - Copy (6).txt,141
+Sat Jun  6 00:40:58 2026,CREATED,../data\rivers - Copy (7).txt,143
+Sat Jun  6 00:40:58 2026,MODIFIED,../data\rivers - Copy (7).txt,148
+Sat Jun  6 00:41:03 2026,CREATED,../data\cyber - Copy.txt,150
+Sat Jun  6 00:41:03 2026,MODIFIED,../data\cyber - Copy.txt,155
+Sat Jun  6 00:41:03 2026,CREATED,../data\cyber - Copy (2).txt,157
+Sat Jun  6 00:41:03 2026,MODIFIED,../data\cyber - Copy (2).txt,162
+Sat Jun  6 00:41:04 2026,CREATED,../data\cyber - Copy (3).txt,164
+Sat Jun  6 00:41:04 2026,MODIFIED,../data\cyber - Copy (3).txt,169
+Sat Jun  6 00:41:05 2026,CREATED,../data\cyber - Copy (4).txt,171
+Sat Jun  6 00:41:05 2026,MODIFIED,../data\cyber - Copy (4).txt,176
+Sat Jun  6 00:41:36 2026,RENAMED,../data\fishes.txt,184
+Sat Jun  6 00:41:47 2026,RENAMED,../data\caught.txt,192
+Sat Jun  6 00:41:54 2026,RENAMED,../data\application.txt,200
+Sat Jun  6 00:42:03 2026,RENAMED,../data\stoves.txt,208
+Sat Jun  6 00:43:50 2026,RENAMED,../data\mountains - Copy.py,216
+Sat Jun  6 00:44:10 2026,RENAMED,../data\mountains - Copy (2).py,224
+Sat Jun  6 00:47:24 2026,MODIFIED,../data\mountains - Copy (4).txt,229
+Sat Jun  6 00:47:39 2026,MODIFIED,../data\rivers - Copy.txt,234
+Sat Jun  6 02:50:36 2026,MODIFIED,../data\mountains - Copy (4).txt,5
+Sat Jun  6 02:50:36 2026,MODIFIED,../data\rivers - Copy.txt,10
+Sat Jun  6 02:50:49 2026,CREATED,../data\fishes - Copy.txt,12
+Sat Jun  6 02:50:49 2026,MODIFIED,../data\fishes - Copy.txt,17
+Sat Jun  6 02:50:50 2026,CREATED,../data\fishes - Copy (2).txt,19
+Sat Jun  6 02:50:50 2026,MODIFIED,../data\fishes - Copy (2).txt,24
+Sat Jun  6 02:50:50 2026,CREATED,../data\fishes - Copy (3).txt,26
+Sat Jun  6 02:50:50 2026,MODIFIED,../data\fishes - Copy (3).txt,31
+Sat Jun  6 02:50:51 2026,CREATED,../data\fishes - Copy (4).txt,33
+Sat Jun  6 02:50:51 2026,MODIFIED,../data\fishes - Copy (4).txt,38
+Sat Jun  6 02:50:51 2026,CREATED,../data\fishes - Copy (5).txt,40
+Sat Jun  6 02:50:51 2026,MODIFIED,../data\fishes - Copy (5).txt,45
+Sat Jun  6 02:50:58 2026,DELETED,../data\fishes - Copy (4).txt,55
+Sat Jun  6 02:50:58 2026,DELETED,../data\rivers - Copy (3).txt,65
+Sat Jun  6 02:50:58 2026,DELETED,../data\rivers - Copy.txt,75
+Sat Jun  6 02:50:58 2026,DELETED,../data\rivers.txt,85
+Sat Jun  6 02:50:58 2026,DELETED,../data\stoves.txt,95
+Sat Jun  6 02:50:58 2026,DELETED,../data\trees.txt,105
+Sat Jun  6 02:50:58 2026,DELETED,../data\fishes - Copy.txt,115
+Sat Jun  6 02:50:58 2026,DELETED,../data\fishes - Copy (2).txt,125
+Sat Jun  6 02:50:58 2026,DELETED,../data\fishes - Copy (3).txt,135
+Sat Jun  6 02:51:57 2026,CREATED,../data\mountains - Copy (3) - Copy.txt,137
+Sat Jun  6 02:51:57 2026,MODIFIED,../data\mountains - Copy (3) - Copy.txt,142
+Sat Jun  6 02:51:58 2026,CREATED,../data\mountains - Copy (4) - Copy.txt,144
+Sat Jun  6 02:51:58 2026,MODIFIED,../data\mountains - Copy (4) - Copy.txt,149
+Sat Jun  6 02:51:58 2026,CREATED,../data\mountains - Copy (5) - Copy.txt,151
+Sat Jun  6 02:51:58 2026,MODIFIED,../data\mountains - Copy (5) - Copy.txt,156
+Sat Jun  6 02:51:58 2026,CREATED,../data\mountains - Copy (6) - Copy.txt,158
+Sat Jun  6 02:51:58 2026,MODIFIED,../data\mountains - Copy (6) - Copy.txt,163
+Sat Jun  6 02:51:59 2026,CREATED,../data\mountains - Copy (7) - Copy.txt,165
+Sat Jun  6 02:51:59 2026,MODIFIED,../data\mountains - Copy (7) - Copy.txt,170
+Sat Jun  6 02:51:59 2026,CREATED,../data\mountains - Copy (8) - Copy.txt,172
+Sat Jun  6 02:51:59 2026,MODIFIED,../data\mountains - Copy (8) - Copy.txt,177
+Sat Jun  6 02:51:59 2026,CREATED,../data\mountains - Copy (9) - Copy.txt,179
+Sat Jun  6 02:51:59 2026,MODIFIED,../data\mountains - Copy (9) - Copy.txt,184
+Sat Jun  6 02:52:00 2026,CREATED,../data\mountains - Copy (10) - Copy.txt,186
+Sat Jun  6 02:52:00 2026,MODIFIED,../data\mountains - Copy (10) - Copy.txt,191
+Sat Jun  6 02:52:00 2026,CREATED,../data\mountains - Copy (11) - Copy.txt,193
+Sat Jun  6 02:52:00 2026,MODIFIED,../data\mountains - Copy (11) - Copy.txt,198
+Sat Jun  6 02:52:00 2026,CREATED,../data\mountains - Copy (12) - Copy.txt,200
+Sat Jun  6 02:52:00 2026,MODIFIED,../data\mountains - Copy (12) - Copy.txt,205
+Sat Jun  6 02:52:01 2026,CREATED,../data\mountains - Copy (13) - Copy.txt,207
+Sat Jun  6 02:52:01 2026,MODIFIED,../data\mountains - Copy (13) - Copy.txt,212
+Sat Jun  6 02:55:23 2026,DELETED,../data\mountains - Copy (6) - Copy.txt,222
+Sat Jun  6 02:55:23 2026,DELETED,../data\fishes - Copy (5).txt,232
+Sat Jun  6 02:55:23 2026,DELETED,../data\fishes.txt,242
+Sat Jun  6 02:55:23 2026,DELETED,../data\images 1.txt,252
+Sat Jun  6 02:55:23 2026,DELETED,../data\mountains - Copy (2).py,262
+Sat Jun  6 02:55:23 2026,DELETED,../data\mountains - Copy (3) - Copy.txt,272
+Sat Jun  6 02:55:23 2026,DELETED,../data\mountains - Copy (3).txt,282
+Sat Jun  6 02:55:23 2026,DELETED,../data\mountains - Copy (4) - Copy.txt,292
+Sat Jun  6 02:55:23 2026,DELETED,../data\mountains - Copy (4).txt,302
+Sat Jun  6 02:55:23 2026,DELETED,../data\mountains - Copy (5) - Copy.txt,312
+Sat Jun  6 02:55:23 2026,DELETED,../data\mountains - Copy (5).txt,322
+Wed Jun 10 19:16:36 2026,DELETED,../data\rivers - Copy (2).txt,10
+Wed Jun 10 19:16:36 2026,DELETED,../data\application.txt,20
+Wed Jun 10 19:16:36 2026,DELETED,../data\caught.txt,30
+Wed Jun 10 19:16:36 2026,DELETED,../data\cyber - Copy (2).txt,40
+Wed Jun 10 19:16:36 2026,DELETED,../data\cyber - Copy (3).txt,50
+Wed Jun 10 19:16:36 2026,DELETED,../data\cyber - Copy (4).txt,60
+Wed Jun 10 19:16:36 2026,DELETED,../data\cyber - Copy.txt,70
+Wed Jun 10 19:16:36 2026,DELETED,../data\cyber.txt,80
+Wed Jun 10 19:16:36 2026,DELETED,../data\mountains - Copy (6).txt,90
+Wed Jun 10 19:16:36 2026,DELETED,../data\mountains - Copy (7) - Copy.txt,100
+Wed Jun 10 19:16:36 2026,DELETED,../data\mountains - Copy (7).txt,110
+Wed Jun 10 19:16:36 2026,DELETED,../data\mountains - Copy (8) - Copy.txt,120
+Wed Jun 10 19:16:36 2026,DELETED,../data\mountains - Copy (9) - Copy.txt,130
+Wed Jun 10 19:16:36 2026,DELETED,../data\mountains - Copy (10) - Copy.txt,140
+Wed Jun 10 19:16:36 2026,DELETED,../data\mountains - Copy (11) - Copy.txt,150
+Wed Jun 10 19:16:36 2026,DELETED,../data\mountains - Copy (12) - Copy.txt,160
+Wed Jun 10 19:16:36 2026,DELETED,../data\mountains - Copy (13) - Copy.txt,170
+Wed Jun 10 19:16:36 2026,DELETED,../data\mountains - Copy.py,180
+Wed Jun 10 19:16:36 2026,DELETED,../data\mountains.txt,190
+Wed Jun 10 19:16:44 2026,CREATED,../data\New Text Document.txt,192
+Wed Jun 10 19:16:49 2026,CREATED,../data\New Text Document (2).txt,194
+Wed Jun 10 19:16:53 2026,CREATED,../data\New Text Document (3).txt,196
+Wed Jun 10 19:16:58 2026,CREATED,../data\New Text Document (4).txt,198
+Wed Jun 10 19:17:03 2026,CREATED,../data\New Text Document (5).txt,200
+Wed Jun 10 19:17:11 2026,CREATED,../data\New Text Document - Copy.txt,202
+Wed Jun 10 19:17:11 2026,MODIFIED,../data\New Text Document - Copy.txt,207
+Wed Jun 10 19:17:12 2026,CREATED,../data\New Text Document - Copy (2).txt,209
+Wed Jun 10 19:17:12 2026,MODIFIED,../data\New Text Document - Copy (2).txt,214
+Wed Jun 10 19:17:13 2026,CREATED,../data\New Text Document - Copy (3).txt,216
+Wed Jun 10 19:17:13 2026,MODIFIED,../data\New Text Document - Copy (3).txt,221
+Wed Jun 10 19:17:13 2026,CREATED,../data\New Text Document - Copy (4).txt,223
+Wed Jun 10 19:17:13 2026,MODIFIED,../data\New Text Document - Copy (4).txt,228
+Wed Jun 10 19:17:14 2026,CREATED,../data\New Text Document - Copy (5).txt,230
+Wed Jun 10 19:17:14 2026,MODIFIED,../data\New Text Document - Copy (5).txt,235
+Wed Jun 10 19:17:14 2026,CREATED,../data\New Text Document - Copy (6).txt,237
+Wed Jun 10 19:17:14 2026,MODIFIED,../data\New Text Document - Copy (6).txt,242
+Wed Jun 10 19:17:15 2026,CREATED,../data\New Text Document - Copy (7).txt,244
+Wed Jun 10 19:17:15 2026,MODIFIED,../data\New Text Document - Copy (7).txt,249
+Wed Jun 10 19:17:16 2026,CREATED,../data\New Text Document - Copy (8).txt,251
+Wed Jun 10 19:17:16 2026,MODIFIED,../data\New Text Document - Copy (8).txt,256
+Wed Jun 10 19:17:16 2026,CREATED,../data\New Text Document - Copy (9).txt,258
+Wed Jun 10 19:17:16 2026,MODIFIED,../data\New Text Document - Copy (9).txt,263
+Wed Jun 10 19:17:17 2026,CREATED,../data\New Text Document - Copy (10).txt,265
+Wed Jun 10 19:17:17 2026,MODIFIED,../data\New Text Document - Copy (10).txt,270
+Wed Jun 10 19:17:17 2026,CREATED,../data\New Text Document - Copy (11).txt,272
+Wed Jun 10 19:17:17 2026,MODIFIED,../data\New Text Document - Copy (11).txt,277
+Wed Jun 10 19:17:18 2026,CREATED,../data\New Text Document - Copy (12).txt,279
+Wed Jun 10 19:17:18 2026,MODIFIED,../data\New Text Document - Copy (12).txt,284
+Wed Jun 10 19:17:18 2026,CREATED,../data\New Text Document - Copy (13).txt,286
+Wed Jun 10 19:17:18 2026,MODIFIED,../data\New Text Document - Copy (13).txt,291
+Wed Jun 10 19:17:19 2026,CREATED,../data\New Text Document - Copy (14).txt,293
+Wed Jun 10 19:17:19 2026,MODIFIED,../data\New Text Document - Copy (14).txt,298
+Wed Jun 10 19:17:19 2026,CREATED,../data\New Text Document - Copy (15).txt,300
+Wed Jun 10 19:17:19 2026,MODIFIED,../data\New Text Document - Copy (15).txt,305
+Wed Jun 10 19:17:20 2026,CREATED,../data\New Text Document - Copy (16).txt,307
+Wed Jun 10 19:17:20 2026,MODIFIED,../data\New Text Document - Copy (16).txt,312
+Wed Jun 10 19:17:20 2026,CREATED,../data\New Text Document - Copy (17).txt,314
+Wed Jun 10 19:17:20 2026,MODIFIED,../data\New Text Document - Copy (17).txt,319
+Wed Jun 10 19:17:21 2026,CREATED,../data\New Text Document - Copy (18).txt,321
+Wed Jun 10 19:17:21 2026,MODIFIED,../data\New Text Document - Copy (18).txt,326
+Wed Jun 10 19:17:21 2026,CREATED,../data\New Text Document - Copy (19).txt,328
+Wed Jun 10 19:17:21 2026,MODIFIED,../data\New Text Document - Copy (19).txt,333
+Wed Jun 10 19:17:22 2026,CREATED,../data\New Text Document - Copy (20).txt,335
+Wed Jun 10 19:17:22 2026,MODIFIED,../data\New Text Document - Copy (20).txt,340
+Wed Jun 10 19:17:22 2026,CREATED,../data\New Text Document - Copy (21).txt,342
+Wed Jun 10 19:17:22 2026,MODIFIED,../data\New Text Document - Copy (21).txt,347
+Wed Jun 10 19:17:23 2026,CREATED,../data\New Text Document - Copy (22).txt,349
+Wed Jun 10 19:17:23 2026,MODIFIED,../data\New Text Document - Copy (22).txt,354
+Wed Jun 10 19:17:23 2026,CREATED,../data\New Text Document - Copy (23).txt,356
+Wed Jun 10 19:17:23 2026,MODIFIED,../data\New Text Document - Copy (23).txt,361
+Wed Jun 10 19:17:23 2026,CREATED,../data\New Text Document - Copy (24).txt,363
+Wed Jun 10 19:17:23 2026,MODIFIED,../data\New Text Document - Copy (24).txt,368
+Wed Jun 10 19:17:24 2026,CREATED,../data\New Text Document - Copy (25).txt,370
+Wed Jun 10 19:17:24 2026,MODIFIED,../data\New Text Document - Copy (25).txt,375
+Wed Jun 10 19:17:24 2026,CREATED,../data\New Text Document - Copy (26).txt,377
+Wed Jun 10 19:17:24 2026,MODIFIED,../data\New Text Document - Copy (26).txt,382
+Wed Jun 10 19:17:24 2026,CREATED,../data\New Text Document - Copy (27).txt,384
+Wed Jun 10 19:17:24 2026,MODIFIED,../data\New Text Document - Copy (27).txt,389
+Wed Jun 10 19:17:25 2026,CREATED,../data\New Text Document - Copy (28).txt,391
+Wed Jun 10 19:17:25 2026,MODIFIED,../data\New Text Document - Copy (28).txt,396
+Wed Jun 10 19:17:25 2026,CREATED,../data\New Text Document - Copy (29).txt,398
+Wed Jun 10 19:17:25 2026,MODIFIED,../data\New Text Document - Copy (29).txt,403
+Wed Jun 10 19:17:25 2026,CREATED,../data\New Text Document - Copy (30).txt,405
+Wed Jun 10 19:17:25 2026,MODIFIED,../data\New Text Document - Copy (30).txt,410
+Wed Jun 10 19:17:26 2026,CREATED,../data\New Text Document - Copy (31).txt,412
+Wed Jun 10 19:17:26 2026,MODIFIED,../data\New Text Document - Copy (31).txt,417
+Wed Jun 10 19:17:26 2026,CREATED,../data\New Text Document - Copy (32).txt,419
+Wed Jun 10 19:17:26 2026,MODIFIED,../data\New Text Document - Copy (32).txt,424
+Wed Jun 10 19:17:26 2026,CREATED,../data\New Text Document - Copy (33).txt,426
+Wed Jun 10 19:17:26 2026,MODIFIED,../data\New Text Document - Copy (33).txt,431
+Wed Jun 10 19:17:27 2026,CREATED,../data\New Text Document - Copy (34).txt,433
+Wed Jun 10 19:17:27 2026,MODIFIED,../data\New Text Document - Copy (34).txt,438
+Wed Jun 10 19:17:27 2026,CREATED,../data\New Text Document - Copy (35).txt,440
+Wed Jun 10 19:17:27 2026,MODIFIED,../data\New Text Document - Copy (35).txt,445
+Wed Jun 10 19:17:27 2026,CREATED,../data\New Text Document - Copy (36).txt,447
+Wed Jun 10 19:17:27 2026,MODIFIED,../data\New Text Document - Copy (36).txt,452
+Wed Jun 10 19:17:28 2026,CREATED,../data\New Text Document - Copy (37).txt,454
+Wed Jun 10 19:17:28 2026,MODIFIED,../data\New Text Document - Copy (37).txt,459
+Wed Jun 10 19:17:28 2026,CREATED,../data\New Text Document - Copy (38).txt,461
+Wed Jun 10 19:17:28 2026,MODIFIED,../data\New Text Document - Copy (38).txt,466
+Wed Jun 10 19:17:28 2026,CREATED,../data\New Text Document - Copy (39).txt,468
+Wed Jun 10 19:17:28 2026,MODIFIED,../data\New Text Document - Copy (39).txt,473
+Wed Jun 10 19:17:28 2026,CREATED,../data\New Text Document - Copy (40).txt,475
+Wed Jun 10 19:17:28 2026,MODIFIED,../data\New Text Document - Copy (40).txt,480
+Wed Jun 10 19:17:29 2026,CREATED,../data\New Text Document - Copy (41).txt,482
+Wed Jun 10 19:17:29 2026,MODIFIED,../data\New Text Document - Copy (41).txt,487
+Wed Jun 10 19:17:29 2026,CREATED,../data\New Text Document - Copy (42).txt,489
+Wed Jun 10 19:17:29 2026,MODIFIED,../data\New Text Document - Copy (42).txt,494
+Wed Jun 10 19:17:42 2026,MODIFIED,../data\New Text Document - Copy.txt,499
+Wed Jun 10 19:17:54 2026,MODIFIED,../data\New Text Document - Copy (4).txt,504
+Wed Jun 10 19:18:08 2026,RENAMED,../data\mountains.txt,512
+Wed Jun 10 19:18:08 2026,MODIFIED,../data\mountains.txt,517
+Wed Jun 10 19:18:19 2026,RENAMED,../data\rivers.txt,525
+Wed Jun 10 19:18:30 2026,RENAMED,../data\ranges of fords.txt,533
+Wed Jun 10 19:18:41 2026,RENAMED,../data\vivo phones.txt,541
+Wed Jun 10 19:18:50 2026,RENAMED,../data\computer hack.txt,549
+Wed Jun 10 19:19:03 2026,RENAMED,../data\careers.txt,557
+Wed Jun 10 19:19:21 2026,RENAMED,../data\kindness.txt,565
+Wed Jun 10 19:30:45 2026,DELETED,../data\vivo phones.txt,575
+Wed Jun 10 19:30:45 2026,DELETED,../data\careers.txt,585
+Wed Jun 10 19:30:45 2026,DELETED,../data\computer hack.txt,595
+Wed Jun 10 19:30:45 2026,DELETED,../data\kindness.txt,605
+Wed Jun 10 19:30:45 2026,DELETED,../data\mountains.txt,615
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (3).txt,625
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (4).txt,635
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (6).txt,645
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (8).txt,655
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (10).txt,665
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (11).txt,675
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (13).txt,685
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (14).txt,695
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (16).txt,705
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (17).txt,715
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (18).txt,725
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (19).txt,735
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (20).txt,745
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (21).txt,755
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (22).txt,765
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (23).txt,775
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (24).txt,785
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (25).txt,795
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (26).txt,805
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (27).txt,815
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (28).txt,825
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (29).txt,835
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (30).txt,845
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (31).txt,855
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (32).txt,865
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (33).txt,875
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (34).txt,885
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (35).txt,895
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (36).txt,905
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (37).txt,915
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (38).txt,925
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (39).txt,935
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (40).txt,945
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (41).txt,955
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document - Copy (42).txt,965
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document (2).txt,975
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document (3).txt,985
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document (4).txt,995
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document (5).txt,1005
+Wed Jun 10 19:30:45 2026,DELETED,../data\New Text Document.txt,1015
+Wed Jun 10 19:30:45 2026,DELETED,../data\ranges of fords.txt,1025
+Wed Jun 10 19:30:45 2026,DELETED,../data\rivers.txt,1035
+Wed Jun 10 19:36:22 2026,CREATED,../data\simulation,2
+Wed Jun 10 19:36:22 2026,CREATED,../data\simulation\file_0.txt,4
+Wed Jun 10 19:36:22 2026,CREATED,../data\simulation\file_0.txt,6
+Wed Jun 10 19:36:22 2026,MODIFIED,../data\simulation\file_0.txt,11
+Wed Jun 10 19:36:22 2026,MODIFIED,../data\simulation,16
+Wed Jun 10 19:36:22 2026,CREATED,../data\simulation\file_1.txt,18
+Wed Jun 10 19:36:22 2026,MODIFIED,../data\simulation\file_1.txt,23
+Wed Jun 10 19:36:22 2026,MODIFIED,../data\simulation,28
+Wed Jun 10 19:36:22 2026,CREATED,../data\simulation\file_2.txt,30
+Wed Jun 10 19:36:22 2026,MODIFIED,../data\simulation\file_2.txt,35
+Wed Jun 10 19:36:22 2026,MODIFIED,../data\simulation,40
+Wed Jun 10 19:36:22 2026,CREATED,../data\simulation\file_3.txt,42
+Wed Jun 10 19:36:22 2026,MODIFIED,../data\simulation\file_3.txt,47
+Wed Jun 10 19:36:22 2026,MODIFIED,../data\simulation,52
+Wed Jun 10 19:36:22 2026,CREATED,../data\simulation\file_4.txt,54
+Wed Jun 10 19:36:22 2026,MODIFIED,../data\simulation\file_4.txt,59
+Wed Jun 10 19:36:23 2026,MODIFIED,../data\simulation,64
+Wed Jun 10 19:36:23 2026,CREATED,../data\simulation\file_5.txt,66
+Wed Jun 10 19:36:23 2026,MODIFIED,../data\simulation,71
+Wed Jun 10 19:36:23 2026,MODIFIED,../data\simulation\file_5.txt,76
+Wed Jun 10 19:36:23 2026,CREATED,../data\simulation\file_6.txt,78
+Wed Jun 10 19:36:23 2026,MODIFIED,../data\simulation\file_6.txt,83
+Wed Jun 10 19:36:23 2026,MODIFIED,../data\simulation,88
+Wed Jun 10 19:36:23 2026,CREATED,../data\simulation\file_7.txt,90
+Wed Jun 10 19:36:23 2026,MODIFIED,../data\simulation\file_7.txt,95
+Wed Jun 10 19:36:23 2026,MODIFIED,../data\simulation,100
+Wed Jun 10 19:36:23 2026,CREATED,../data\simulation\file_8.txt,102
+Wed Jun 10 19:36:23 2026,MODIFIED,../data\simulation\file_8.txt,107
+Wed Jun 10 19:36:23 2026,MODIFIED,../data\simulation,112
+Wed Jun 10 19:36:24 2026,CREATED,../data\simulation\file_9.txt,114
+Wed Jun 10 19:36:24 2026,MODIFIED,../data\simulation\file_9.txt,119
+Wed Jun 10 19:36:24 2026,MODIFIED,../data\simulation,124
+Wed Jun 10 19:36:24 2026,CREATED,../data\simulation\file_10.txt,126
+Wed Jun 10 19:36:24 2026,MODIFIED,../data\simulation\file_10.txt,131
+Wed Jun 10 19:36:24 2026,MODIFIED,../data\simulation,136
+Wed Jun 10 19:36:24 2026,CREATED,../data\simulation\file_11.txt,138
+Wed Jun 10 19:36:24 2026,MODIFIED,../data\simulation\file_11.txt,143
+Wed Jun 10 19:36:24 2026,MODIFIED,../data\simulation,148
+Wed Jun 10 19:36:24 2026,CREATED,../data\simulation\file_12.txt,150
+Wed Jun 10 19:36:24 2026,MODIFIED,../data\simulation,155
+Wed Jun 10 19:36:24 2026,MODIFIED,../data\simulation\file_12.txt,160
+Wed Jun 10 19:36:24 2026,CREATED,../data\simulation\file_13.txt,162
+Wed Jun 10 19:36:24 2026,MODIFIED,../data\simulation\file_13.txt,167
+Wed Jun 10 19:36:25 2026,MODIFIED,../data\simulation,172
+Wed Jun 10 19:36:25 2026,CREATED,../data\simulation\file_14.txt,174
+Wed Jun 10 19:36:25 2026,MODIFIED,../data\simulation\file_14.txt,179
+Wed Jun 10 19:36:25 2026,MODIFIED,../data\simulation,184
+Wed Jun 10 19:36:25 2026,CREATED,../data\simulation\file_15.txt,186
+Wed Jun 10 19:36:25 2026,MODIFIED,../data\simulation\file_15.txt,191
+Wed Jun 10 19:36:25 2026,MODIFIED,../data\simulation,196
+Wed Jun 10 19:36:25 2026,CREATED,../data\simulation\file_16.txt,198
+Wed Jun 10 19:36:25 2026,MODIFIED,../data\simulation\file_16.txt,203
+Wed Jun 10 19:36:25 2026,MODIFIED,../data\simulation,208
+Wed Jun 10 19:36:25 2026,CREATED,../data\simulation\file_17.txt,210
+Wed Jun 10 19:36:25 2026,MODIFIED,../data\simulation,215
+Wed Jun 10 19:36:25 2026,MODIFIED,../data\simulation\file_17.txt,220
+Wed Jun 10 19:36:25 2026,CREATED,../data\simulation\file_18.txt,222
+Wed Jun 10 19:36:25 2026,MODIFIED,../data\simulation\file_18.txt,227
+Wed Jun 10 19:36:25 2026,MODIFIED,../data\simulation,232
+Wed Jun 10 19:36:26 2026,CREATED,../data\simulation\file_19.txt,234
+Wed Jun 10 19:36:26 2026,MODIFIED,../data\simulation\file_19.txt,239
+Wed Jun 10 19:36:26 2026,MODIFIED,../data\simulation,244
+Wed Jun 10 19:36:26 2026,MODIFIED,../data\simulation\file_0.txt,249
+Wed Jun 10 19:36:26 2026,MODIFIED,../data\simulation\file_1.txt,254
+Wed Jun 10 19:36:26 2026,MODIFIED,../data\simulation\file_2.txt,259
+Wed Jun 10 19:36:26 2026,MODIFIED,../data\simulation\file_3.txt,264
+Wed Jun 10 19:36:27 2026,MODIFIED,../data\simulation\file_4.txt,269
+Wed Jun 10 19:36:27 2026,MODIFIED,../data\simulation\file_5.txt,274
+Wed Jun 10 19:36:27 2026,MODIFIED,../data\simulation\file_6.txt,279
+Wed Jun 10 19:36:27 2026,MODIFIED,../data\simulation\file_7.txt,284
+Wed Jun 10 19:36:27 2026,MODIFIED,../data\simulation\file_8.txt,289
+Wed Jun 10 19:36:28 2026,MODIFIED,../data\simulation\file_9.txt,294
+Wed Jun 10 19:36:28 2026,MODIFIED,../data\simulation\file_10.txt,299
+Wed Jun 10 19:36:28 2026,MODIFIED,../data\simulation\file_11.txt,304
+Wed Jun 10 19:36:28 2026,MODIFIED,../data\simulation\file_12.txt,309
+Wed Jun 10 19:36:28 2026,MODIFIED,../data\simulation\file_13.txt,314
+Wed Jun 10 19:36:29 2026,MODIFIED,../data\simulation\file_14.txt,319
+Wed Jun 10 19:36:29 2026,MODIFIED,../data\simulation\file_15.txt,324
+Wed Jun 10 19:36:29 2026,MODIFIED,../data\simulation\file_16.txt,329
+Wed Jun 10 19:36:29 2026,MODIFIED,../data\simulation\file_17.txt,334
+Wed Jun 10 19:36:29 2026,MODIFIED,../data\simulation\file_18.txt,339
+Wed Jun 10 19:36:30 2026,MODIFIED,../data\simulation\file_19.txt,344
+Wed Jun 10 19:36:30 2026,RENAMED,../data\simulation\file_0.locked,352
+Wed Jun 10 19:36:30 2026,MODIFIED,../data\simulation,357
+Wed Jun 10 19:36:30 2026,MODIFIED,../data\simulation\file_0.locked,362
+Wed Jun 10 19:36:30 2026,RENAMED,../data\simulation\file_1.locked,370
+Wed Jun 10 19:36:30 2026,MODIFIED,../data\simulation,375
+Wed Jun 10 19:36:30 2026,MODIFIED,../data\simulation\file_1.locked,380
+Wed Jun 10 19:36:30 2026,RENAMED,../data\simulation\file_2.locked,388
+Wed Jun 10 19:36:30 2026,MODIFIED,../data\simulation,393
+Wed Jun 10 19:36:30 2026,MODIFIED,../data\simulation\file_2.locked,398
+Wed Jun 10 19:36:30 2026,RENAMED,../data\simulation\file_3.locked,406
+Wed Jun 10 19:36:30 2026,MODIFIED,../data\simulation,411
+Wed Jun 10 19:36:30 2026,MODIFIED,../data\simulation\file_3.locked,416
+Wed Jun 10 19:36:31 2026,RENAMED,../data\simulation\file_4.locked,424
+Wed Jun 10 19:36:31 2026,MODIFIED,../data\simulation,429
+Wed Jun 10 19:36:31 2026,MODIFIED,../data\simulation\file_4.locked,434
+Wed Jun 10 19:36:31 2026,RENAMED,../data\simulation\file_5.locked,442
+Wed Jun 10 19:36:31 2026,MODIFIED,../data\simulation,447
+Wed Jun 10 19:36:31 2026,MODIFIED,../data\simulation\file_5.locked,452
+Wed Jun 10 19:36:31 2026,RENAMED,../data\simulation\file_6.locked,460
+Wed Jun 10 19:36:31 2026,MODIFIED,../data\simulation,465
+Wed Jun 10 19:36:31 2026,MODIFIED,../data\simulation\file_6.locked,470
+Wed Jun 10 19:36:31 2026,RENAMED,../data\simulation\file_7.locked,478
+Wed Jun 10 19:36:31 2026,MODIFIED,../data\simulation,483
+Wed Jun 10 19:36:31 2026,MODIFIED,../data\simulation\file_7.locked,488
+Wed Jun 10 19:36:31 2026,RENAMED,../data\simulation\file_8.locked,496
+Wed Jun 10 19:36:31 2026,MODIFIED,../data\simulation,501
+Wed Jun 10 19:36:31 2026,MODIFIED,../data\simulation\file_8.locked,506
+Wed Jun 10 19:36:32 2026,RENAMED,../data\simulation\file_9.locked,514
+Wed Jun 10 19:36:32 2026,MODIFIED,../data\simulation,519
+Wed Jun 10 19:36:32 2026,MODIFIED,../data\simulation\file_9.locked,524
+Wed Jun 10 19:36:32 2026,RENAMED,../data\simulation\file_10.locked,532
+Wed Jun 10 19:36:32 2026,MODIFIED,../data\simulation,537
+Wed Jun 10 19:36:32 2026,MODIFIED,../data\simulation\file_10.locked,542
+Wed Jun 10 19:36:32 2026,RENAMED,../data\simulation\file_11.locked,550
+Wed Jun 10 19:36:32 2026,MODIFIED,../data\simulation,555
+Wed Jun 10 19:36:32 2026,MODIFIED,../data\simulation\file_11.locked,560
+Wed Jun 10 19:36:32 2026,RENAMED,../data\simulation\file_12.locked,568
+Wed Jun 10 19:36:32 2026,MODIFIED,../data\simulation,573
+Wed Jun 10 19:36:32 2026,MODIFIED,../data\simulation\file_12.locked,578
+Wed Jun 10 19:36:32 2026,RENAMED,../data\simulation\file_13.locked,586
+Wed Jun 10 19:36:33 2026,MODIFIED,../data\simulation,591
+Wed Jun 10 19:36:33 2026,MODIFIED,../data\simulation\file_13.locked,596
+Wed Jun 10 19:36:33 2026,RENAMED,../data\simulation\file_14.locked,604
+Wed Jun 10 19:36:33 2026,MODIFIED,../data\simulation,609
+Wed Jun 10 19:36:33 2026,MODIFIED,../data\simulation\file_14.locked,614
+Wed Jun 10 19:36:33 2026,RENAMED,../data\simulation\file_15.locked,622
+Wed Jun 10 19:36:33 2026,MODIFIED,../data\simulation,627
+Wed Jun 10 19:36:33 2026,MODIFIED,../data\simulation\file_15.locked,632
+Wed Jun 10 19:36:33 2026,RENAMED,../data\simulation\file_16.locked,640
+Wed Jun 10 19:36:33 2026,MODIFIED,../data\simulation,645
+Wed Jun 10 19:36:33 2026,MODIFIED,../data\simulation\file_16.locked,650
+Wed Jun 10 19:36:33 2026,RENAMED,../data\simulation\file_17.locked,658
+Wed Jun 10 19:36:33 2026,MODIFIED,../data\simulation,663
+Wed Jun 10 19:36:33 2026,MODIFIED,../data\simulation\file_17.locked,668
+Wed Jun 10 19:36:34 2026,RENAMED,../data\simulation\file_18.locked,676
+Wed Jun 10 19:36:34 2026,MODIFIED,../data\simulation,681
+Wed Jun 10 19:36:34 2026,MODIFIED,../data\simulation\file_18.locked,686
+Wed Jun 10 19:36:34 2026,RENAMED,../data\simulation\file_19.locked,694
+Wed Jun 10 19:36:34 2026,MODIFIED,../data\simulation,699
+Wed Jun 10 19:36:34 2026,MODIFIED,../data\simulation\file_19.locked,704
+Sat Jun 13 00:47:41 2026,MODIFIED,../data\simulation,5
+Sat Jun 13 00:47:42 2026,MODIFIED,../data\simulation\file_0.locked,10
+Sat Jun 13 00:47:42 2026,MODIFIED,../data\simulation\file_1.locked,15
+Sat Jun 13 00:47:42 2026,MODIFIED,../data\simulation\file_10.locked,20
+Sat Jun 13 00:47:42 2026,MODIFIED,../data\simulation\file_11.locked,25
+Sat Jun 13 00:47:42 2026,MODIFIED,../data\simulation\file_12.locked,30
+Sat Jun 13 00:47:42 2026,MODIFIED,../data\simulation\file_13.locked,35
+Sat Jun 13 00:47:42 2026,MODIFIED,../data\simulation\file_14.locked,40
+Sat Jun 13 00:47:42 2026,MODIFIED,../data\simulation\file_15.locked,45
+Sat Jun 13 00:47:42 2026,MODIFIED,../data\simulation\file_16.locked,50
+Sat Jun 13 00:47:42 2026,MODIFIED,../data\simulation\file_17.locked,55
+Sat Jun 13 00:47:42 2026,MODIFIED,../data\simulation\file_18.locked,60
+Sat Jun 13 00:47:42 2026,MODIFIED,../data\simulation\file_19.locked,65
+Sat Jun 13 00:47:42 2026,MODIFIED,../data\simulation\file_2.locked,70
+Sat Jun 13 00:47:42 2026,MODIFIED,../data\simulation\file_3.locked,75
+Sat Jun 13 00:47:42 2026,MODIFIED,../data\simulation\file_4.locked,80
+Sat Jun 13 00:47:42 2026,MODIFIED,../data\simulation\file_5.locked,85
+Sat Jun 13 00:47:42 2026,MODIFIED,../data\simulation\file_6.locked,90
+Sat Jun 13 00:47:42 2026,MODIFIED,../data\simulation\file_7.locked,95
+Sat Jun 13 00:47:42 2026,MODIFIED,../data\simulation\file_8.locked,100
+Sat Jun 13 00:47:42 2026,MODIFIED,../data\simulation\file_9.locked,105
+Sat Jun 13 00:47:51 2026,DELETED,../data\simulation,115
+Sat Jun 13 00:47:59 2026,CREATED,../data\New Text Document.txt,117
+Sat Jun 13 00:48:12 2026,RENAMED,../data\You.txt,125
+Sat Jun 13 00:48:20 2026,CREATED,../data\You - Copy.txt,127
+Sat Jun 13 00:48:20 2026,MODIFIED,../data\You - Copy.txt,132
+Sat Jun 13 00:48:20 2026,CREATED,../data\You - Copy (2).txt,134
+Sat Jun 13 00:48:20 2026,MODIFIED,../data\You - Copy (2).txt,139
+Sat Jun 13 00:48:21 2026,CREATED,../data\You - Copy (3).txt,141
+Sat Jun 13 00:48:21 2026,MODIFIED,../data\You - Copy (3).txt,146
+Sat Jun 13 00:48:22 2026,CREATED,../data\You - Copy (4).txt,148
+Sat Jun 13 00:48:22 2026,MODIFIED,../data\You - Copy (4).txt,153
+Sat Jun 13 00:48:22 2026,CREATED,../data\You - Copy (5).txt,155
+Sat Jun 13 00:48:23 2026,MODIFIED,../data\You - Copy (5).txt,160
+Sat Jun 13 00:48:23 2026,CREATED,../data\You - Copy (6).txt,162
+Sat Jun 13 00:48:23 2026,MODIFIED,../data\You - Copy (6).txt,167
+Sat Jun 13 00:48:24 2026,CREATED,../data\You - Copy (7).txt,169
+Sat Jun 13 00:48:24 2026,MODIFIED,../data\You - Copy (7).txt,174
+Sat Jun 13 00:48:25 2026,CREATED,../data\You - Copy (8).txt,176
+Sat Jun 13 00:48:25 2026,MODIFIED,../data\You - Copy (8).txt,181
+Sat Jun 13 00:48:25 2026,CREATED,../data\You - Copy (9).txt,183
+Sat Jun 13 00:48:25 2026,MODIFIED,../data\You - Copy (9).txt,188
+Sat Jun 13 00:48:26 2026,CREATED,../data\You - Copy (10).txt,190
+Sat Jun 13 00:48:26 2026,MODIFIED,../data\You - Copy (10).txt,195
+Sat Jun 13 00:48:27 2026,CREATED,../data\You - Copy (11).txt,197
+Sat Jun 13 00:48:27 2026,MODIFIED,../data\You - Copy (11).txt,202
+Sat Jun 13 00:48:27 2026,CREATED,../data\You - Copy (12).txt,204
+Sat Jun 13 00:48:27 2026,MODIFIED,../data\You - Copy (12).txt,209
+Sat Jun 13 00:48:28 2026,CREATED,../data\You - Copy (13).txt,211
+Sat Jun 13 00:48:28 2026,MODIFIED,../data\You - Copy (13).txt,216
+Sat Jun 13 00:48:28 2026,CREATED,../data\You - Copy (14).txt,218
+Sat Jun 13 00:48:28 2026,MODIFIED,../data\You - Copy (14).txt,223
+Sat Jun 13 00:48:29 2026,CREATED,../data\You - Copy (15).txt,225
+Sat Jun 13 00:48:29 2026,MODIFIED,../data\You - Copy (15).txt,230
+Sat Jun 13 00:48:30 2026,CREATED,../data\You - Copy (16).txt,232
+Sat Jun 13 00:48:30 2026,MODIFIED,../data\You - Copy (16).txt,237
+Sat Jun 13 00:48:30 2026,CREATED,../data\You - Copy (17).txt,239
+Sat Jun 13 00:48:30 2026,MODIFIED,../data\You - Copy (17).txt,244
+Sat Jun 13 00:48:31 2026,CREATED,../data\You - Copy (18).txt,246
+Sat Jun 13 00:48:31 2026,MODIFIED,../data\You - Copy (18).txt,251
+Sat Jun 13 00:48:31 2026,CREATED,../data\You - Copy (19).txt,253
+Sat Jun 13 00:48:31 2026,MODIFIED,../data\You - Copy (19).txt,258
+Sat Jun 13 00:48:31 2026,CREATED,../data\You - Copy (20).txt,260
+Sat Jun 13 00:48:31 2026,MODIFIED,../data\You - Copy (20).txt,265
+Sat Jun 13 00:48:32 2026,CREATED,../data\You - Copy (21).txt,267
+Sat Jun 13 00:48:32 2026,MODIFIED,../data\You - Copy (21).txt,272
+Sat Jun 13 00:48:33 2026,CREATED,../data\You - Copy (22).txt,274
+Sat Jun 13 00:48:33 2026,MODIFIED,../data\You - Copy (22).txt,279
+Sat Jun 13 00:48:33 2026,CREATED,../data\You - Copy (23).txt,281
+Sat Jun 13 00:48:33 2026,MODIFIED,../data\You - Copy (23).txt,286
+Sat Jun 13 00:48:34 2026,CREATED,../data\You - Copy (24).txt,288
+Sat Jun 13 00:48:34 2026,MODIFIED,../data\You - Copy (24).txt,293
+Sat Jun 13 00:48:34 2026,CREATED,../data\You - Copy (25).txt,295
+Sat Jun 13 00:48:34 2026,MODIFIED,../data\You - Copy (25).txt,300
+Sat Jun 13 00:48:35 2026,CREATED,../data\You - Copy (26).txt,302
+Sat Jun 13 00:48:35 2026,MODIFIED,../data\You - Copy (26).txt,307
+Sat Jun 13 00:48:35 2026,CREATED,../data\You - Copy (27).txt,309
+Sat Jun 13 00:48:35 2026,MODIFIED,../data\You - Copy (27).txt,314
+Sat Jun 13 00:48:35 2026,CREATED,../data\You - Copy (28).txt,316
+Sat Jun 13 00:48:35 2026,MODIFIED,../data\You - Copy (28).txt,321
+Sat Jun 13 00:48:36 2026,CREATED,../data\You - Copy (29).txt,323
+Sat Jun 13 00:48:36 2026,MODIFIED,../data\You - Copy (29).txt,328
+Sat Jun 13 00:48:36 2026,CREATED,../data\You - Copy (30).txt,330
+Sat Jun 13 00:48:36 2026,MODIFIED,../data\You - Copy (30).txt,335
+Sat Jun 13 00:48:36 2026,CREATED,../data\You - Copy (31).txt,337
+Sat Jun 13 00:48:36 2026,MODIFIED,../data\You - Copy (31).txt,342
+Sat Jun 13 00:48:37 2026,CREATED,../data\You - Copy (32).txt,344
+Sat Jun 13 00:48:37 2026,MODIFIED,../data\You - Copy (32).txt,349
+Sat Jun 13 00:48:37 2026,CREATED,../data\You - Copy (33).txt,351
+Sat Jun 13 00:48:37 2026,MODIFIED,../data\You - Copy (33).txt,356
+Sat Jun 13 00:48:37 2026,CREATED,../data\You - Copy (34).txt,358
+Sat Jun 13 00:48:37 2026,MODIFIED,../data\You - Copy (34).txt,363
+Sat Jun 13 00:48:38 2026,CREATED,../data\You - Copy (35).txt,365
+Sat Jun 13 00:48:38 2026,MODIFIED,../data\You - Copy (35).txt,370
+Sat Jun 13 00:48:38 2026,CREATED,../data\You - Copy (36).txt,372
+Sat Jun 13 00:48:38 2026,MODIFIED,../data\You - Copy (36).txt,377
+Sat Jun 13 00:48:38 2026,CREATED,../data\You - Copy (37).txt,379
+Sat Jun 13 00:48:38 2026,MODIFIED,../data\You - Copy (37).txt,384
+Sat Jun 13 00:48:39 2026,CREATED,../data\You - Copy (38).txt,386
+Sat Jun 13 00:48:39 2026,MODIFIED,../data\You - Copy (38).txt,391
+Sat Jun 13 00:48:39 2026,CREATED,../data\You - Copy (39).txt,393
+Sat Jun 13 00:48:39 2026,MODIFIED,../data\You - Copy (39).txt,398
+Sat Jun 13 00:48:39 2026,CREATED,../data\You - Copy (40).txt,400
+Sat Jun 13 00:48:39 2026,MODIFIED,../data\You - Copy (40).txt,405
+Sat Jun 13 00:48:40 2026,CREATED,../data\You - Copy (41).txt,407
+Sat Jun 13 00:48:40 2026,MODIFIED,../data\You - Copy (41).txt,412
+Sat Jun 13 00:48:40 2026,CREATED,../data\You - Copy (42).txt,414
+Sat Jun 13 00:48:40 2026,MODIFIED,../data\You - Copy (42).txt,419
+Sat Jun 13 00:48:40 2026,CREATED,../data\You - Copy (43).txt,421
+Sat Jun 13 00:48:40 2026,MODIFIED,../data\You - Copy (43).txt,426
+Sat Jun 13 00:48:59 2026,RENAMED,../data\oct.txt,434
+Sat Jun 13 00:49:05 2026,RENAMED,../data\nov.txt,442
+Tue Jun 16 22:01:06 2026,CREATED,../data\simulation,2
+Tue Jun 16 22:01:06 2026,CREATED,../data\simulation\file_0.txt,4
+Tue Jun 16 22:01:06 2026,CREATED,../data\simulation\file_0.txt,6
+Tue Jun 16 22:01:06 2026,MODIFIED,../data\simulation\file_0.txt,11
+Tue Jun 16 22:01:06 2026,MODIFIED,../data\simulation,16
+Tue Jun 16 22:01:06 2026,CREATED,../data\simulation\file_1.txt,18
+Tue Jun 16 22:01:06 2026,MODIFIED,../data\simulation\file_1.txt,23
+Tue Jun 16 22:01:06 2026,MODIFIED,../data\simulation,28
+Tue Jun 16 22:01:06 2026,CREATED,../data\simulation\file_2.txt,30
+Tue Jun 16 22:01:06 2026,MODIFIED,../data\simulation\file_2.txt,35
+Tue Jun 16 22:01:07 2026,MODIFIED,../data\simulation,40
+Tue Jun 16 22:01:07 2026,CREATED,../data\simulation\file_3.txt,42
+Tue Jun 16 22:01:07 2026,MODIFIED,../data\simulation\file_3.txt,47
+Tue Jun 16 22:01:07 2026,MODIFIED,../data\simulation,52
+Tue Jun 16 22:01:07 2026,CREATED,../data\simulation\file_4.txt,54
+Tue Jun 16 22:01:07 2026,MODIFIED,../data\simulation\file_4.txt,59
+Tue Jun 16 22:01:07 2026,MODIFIED,../data\simulation,64
+Tue Jun 16 22:01:07 2026,CREATED,../data\simulation\file_5.txt,66
+Tue Jun 16 22:01:07 2026,MODIFIED,../data\simulation\file_5.txt,71
+Tue Jun 16 22:01:07 2026,MODIFIED,../data\simulation,76
+Tue Jun 16 22:01:07 2026,CREATED,../data\simulation\file_6.txt,78
+Tue Jun 16 22:01:07 2026,MODIFIED,../data\simulation\file_6.txt,83
+Tue Jun 16 22:01:07 2026,MODIFIED,../data\simulation,88
+Tue Jun 16 22:01:07 2026,CREATED,../data\simulation\file_7.txt,90
+Tue Jun 16 22:01:07 2026,MODIFIED,../data\simulation\file_7.txt,95
+Tue Jun 16 22:01:08 2026,MODIFIED,../data\simulation,100
+Tue Jun 16 22:01:08 2026,CREATED,../data\simulation\file_8.txt,102
+Tue Jun 16 22:01:08 2026,MODIFIED,../data\simulation\file_8.txt,107
+Tue Jun 16 22:01:08 2026,MODIFIED,../data\simulation,112
+Tue Jun 16 22:01:08 2026,CREATED,../data\simulation\file_9.txt,114
+Tue Jun 16 22:01:08 2026,MODIFIED,../data\simulation\file_9.txt,119
+Tue Jun 16 22:01:08 2026,MODIFIED,../data\simulation,124
+Tue Jun 16 22:01:08 2026,CREATED,../data\simulation\file_10.txt,126
+Tue Jun 16 22:01:08 2026,MODIFIED,../data\simulation\file_10.txt,131
+Tue Jun 16 22:01:08 2026,MODIFIED,../data\simulation,136
+Tue Jun 16 22:01:08 2026,CREATED,../data\simulation\file_11.txt,138
+Tue Jun 16 22:01:08 2026,MODIFIED,../data\simulation\file_11.txt,143
+Tue Jun 16 22:01:09 2026,MODIFIED,../data\simulation,148
+Tue Jun 16 22:01:09 2026,CREATED,../data\simulation\file_12.txt,150
+Tue Jun 16 22:01:09 2026,MODIFIED,../data\simulation\file_12.txt,155
+Tue Jun 16 22:01:09 2026,MODIFIED,../data\simulation,160
+Tue Jun 16 22:01:09 2026,CREATED,../data\simulation\file_13.txt,162
+Tue Jun 16 22:01:09 2026,MODIFIED,../data\simulation\file_13.txt,167
+Tue Jun 16 22:01:09 2026,MODIFIED,../data\simulation,172
+Tue Jun 16 22:01:09 2026,CREATED,../data\simulation\file_14.txt,174
+Tue Jun 16 22:01:09 2026,MODIFIED,../data\simulation\file_14.txt,179
+Tue Jun 16 22:01:09 2026,MODIFIED,../data\simulation,184
+Tue Jun 16 22:01:09 2026,CREATED,../data\simulation\file_15.txt,186
+Tue Jun 16 22:01:09 2026,MODIFIED,../data\simulation\file_15.txt,191
+Tue Jun 16 22:01:09 2026,MODIFIED,../data\simulation,196
+Tue Jun 16 22:01:09 2026,CREATED,../data\simulation\file_16.txt,198
+Tue Jun 16 22:01:09 2026,MODIFIED,../data\simulation\file_16.txt,203
+Tue Jun 16 22:01:10 2026,MODIFIED,../data\simulation,208
+Tue Jun 16 22:01:10 2026,CREATED,../data\simulation\file_17.txt,210
+Tue Jun 16 22:01:10 2026,MODIFIED,../data\simulation\file_17.txt,215
+Tue Jun 16 22:01:10 2026,MODIFIED,../data\simulation,220
+Tue Jun 16 22:01:10 2026,CREATED,../data\simulation\file_18.txt,222
+Tue Jun 16 22:01:10 2026,MODIFIED,../data\simulation\file_18.txt,227
+Tue Jun 16 22:01:10 2026,MODIFIED,../data\simulation,232
+Tue Jun 16 22:01:10 2026,CREATED,../data\simulation\file_19.txt,234
+Tue Jun 16 22:01:10 2026,MODIFIED,../data\simulation\file_19.txt,239
+Tue Jun 16 22:01:10 2026,MODIFIED,../data\simulation,244
+Tue Jun 16 22:01:10 2026,MODIFIED,../data\simulation\file_0.txt,249
+Tue Jun 16 22:01:10 2026,MODIFIED,../data\simulation\file_1.txt,254
+Tue Jun 16 22:01:11 2026,MODIFIED,../data\simulation\file_2.txt,259
+Tue Jun 16 22:01:11 2026,MODIFIED,../data\simulation\file_3.txt,264
+Tue Jun 16 22:01:11 2026,MODIFIED,../data\simulation\file_4.txt,269
+Tue Jun 16 22:01:11 2026,MODIFIED,../data\simulation\file_5.txt,274
+Tue Jun 16 22:01:11 2026,MODIFIED,../data\simulation\file_6.txt,279
+Tue Jun 16 22:01:12 2026,MODIFIED,../data\simulation\file_7.txt,284
+Tue Jun 16 22:01:12 2026,MODIFIED,../data\simulation\file_8.txt,289
+Tue Jun 16 22:01:12 2026,MODIFIED,../data\simulation\file_9.txt,294
+Tue Jun 16 22:01:12 2026,MODIFIED,../data\simulation\file_10.txt,299
+Tue Jun 16 22:01:12 2026,MODIFIED,../data\simulation\file_11.txt,304
+Tue Jun 16 22:01:13 2026,MODIFIED,../data\simulation\file_12.txt,309
+Tue Jun 16 22:01:13 2026,MODIFIED,../data\simulation\file_13.txt,314
+Tue Jun 16 22:01:13 2026,MODIFIED,../data\simulation\file_14.txt,319
+Tue Jun 16 22:01:13 2026,MODIFIED,../data\simulation\file_15.txt,324
+Tue Jun 16 22:01:13 2026,MODIFIED,../data\simulation\file_16.txt,329
+Tue Jun 16 22:01:14 2026,MODIFIED,../data\simulation\file_17.txt,334
+Tue Jun 16 22:01:14 2026,MODIFIED,../data\simulation\file_18.txt,339
+Tue Jun 16 22:01:14 2026,MODIFIED,../data\simulation\file_19.txt,344
+Tue Jun 16 22:01:14 2026,RENAMED,../data\simulation\file_0.locked,352
+Tue Jun 16 22:01:14 2026,MODIFIED,../data\simulation,357
+Tue Jun 16 22:01:14 2026,MODIFIED,../data\simulation\file_0.locked,362
+Tue Jun 16 22:01:15 2026,RENAMED,../data\simulation\file_1.locked,370
+Tue Jun 16 22:01:15 2026,MODIFIED,../data\simulation,375
+Tue Jun 16 22:01:15 2026,MODIFIED,../data\simulation\file_1.locked,380
+Tue Jun 16 22:01:15 2026,RENAMED,../data\simulation\file_2.locked,388
+Tue Jun 16 22:01:15 2026,MODIFIED,../data\simulation,393
+Tue Jun 16 22:01:15 2026,MODIFIED,../data\simulation\file_2.locked,398
+Tue Jun 16 22:01:15 2026,RENAMED,../data\simulation\file_3.locked,406
+Tue Jun 16 22:01:15 2026,MODIFIED,../data\simulation,411
+Tue Jun 16 22:01:15 2026,MODIFIED,../data\simulation\file_3.locked,416
+Tue Jun 16 22:01:15 2026,RENAMED,../data\simulation\file_4.locked,424
+Tue Jun 16 22:01:15 2026,MODIFIED,../data\simulation,429
+Tue Jun 16 22:01:15 2026,MODIFIED,../data\simulation\file_4.locked,434
+Tue Jun 16 22:01:15 2026,RENAMED,../data\simulation\file_5.locked,442
+Tue Jun 16 22:01:15 2026,MODIFIED,../data\simulation,447
+Tue Jun 16 22:01:15 2026,MODIFIED,../data\simulation\file_5.locked,452
+Tue Jun 16 22:01:16 2026,RENAMED,../data\simulation\file_6.locked,460
+Tue Jun 16 22:01:16 2026,MODIFIED,../data\simulation,465
+Tue Jun 16 22:01:16 2026,MODIFIED,../data\simulation\file_6.locked,470
+Tue Jun 16 22:01:16 2026,RENAMED,../data\simulation\file_7.locked,478
+Tue Jun 16 22:01:16 2026,MODIFIED,../data\simulation,483
+Tue Jun 16 22:01:16 2026,MODIFIED,../data\simulation\file_7.locked,488
+Tue Jun 16 22:01:16 2026,RENAMED,../data\simulation\file_8.locked,496
+Tue Jun 16 22:01:16 2026,MODIFIED,../data\simulation,501
+Tue Jun 16 22:01:16 2026,MODIFIED,../data\simulation\file_8.locked,506
+Tue Jun 16 22:01:16 2026,RENAMED,../data\simulation\file_9.locked,514
+Tue Jun 16 22:01:16 2026,MODIFIED,../data\simulation,519
+Tue Jun 16 22:01:16 2026,MODIFIED,../data\simulation\file_9.locked,524
+Tue Jun 16 22:01:16 2026,RENAMED,../data\simulation\file_10.locked,532
+Tue Jun 16 22:01:16 2026,MODIFIED,../data\simulation,537
+Tue Jun 16 22:01:16 2026,MODIFIED,../data\simulation\file_10.locked,542
+Tue Jun 16 22:01:17 2026,RENAMED,../data\simulation\file_11.locked,550
+Tue Jun 16 22:01:17 2026,MODIFIED,../data\simulation,555
+Tue Jun 16 22:01:17 2026,MODIFIED,../data\simulation\file_11.locked,560
+Tue Jun 16 22:01:17 2026,RENAMED,../data\simulation\file_12.locked,568
+Tue Jun 16 22:01:17 2026,MODIFIED,../data\simulation,573
+Tue Jun 16 22:01:17 2026,MODIFIED,../data\simulation\file_12.locked,578
+Tue Jun 16 22:01:17 2026,RENAMED,../data\simulation\file_13.locked,586
+Tue Jun 16 22:01:17 2026,MODIFIED,../data\simulation,591
+Tue Jun 16 22:01:17 2026,MODIFIED,../data\simulation\file_13.locked,596
+Tue Jun 16 22:01:17 2026,RENAMED,../data\simulation\file_14.locked,604
+Tue Jun 16 22:01:17 2026,MODIFIED,../data\simulation,609
+Tue Jun 16 22:01:17 2026,MODIFIED,../data\simulation\file_14.locked,614
+Tue Jun 16 22:01:17 2026,RENAMED,../data\simulation\file_15.locked,622
+Tue Jun 16 22:01:17 2026,MODIFIED,../data\simulation,627
+Tue Jun 16 22:01:17 2026,MODIFIED,../data\simulation\file_15.locked,632
+Tue Jun 16 22:01:18 2026,RENAMED,../data\simulation\file_16.locked,640
+Tue Jun 16 22:01:18 2026,MODIFIED,../data\simulation,645
+Tue Jun 16 22:01:18 2026,MODIFIED,../data\simulation\file_16.locked,650
+Tue Jun 16 22:01:18 2026,RENAMED,../data\simulation\file_17.locked,658
+Tue Jun 16 22:01:18 2026,MODIFIED,../data\simulation,663
+Tue Jun 16 22:01:18 2026,MODIFIED,../data\simulation\file_17.locked,668
+Tue Jun 16 22:01:18 2026,RENAMED,../data\simulation\file_18.locked,676
+Tue Jun 16 22:01:18 2026,MODIFIED,../data\simulation,681
+Tue Jun 16 22:01:18 2026,MODIFIED,../data\simulation\file_18.locked,686
+Tue Jun 16 22:01:18 2026,RENAMED,../data\simulation\file_19.locked,694
+Tue Jun 16 22:01:18 2026,MODIFIED,../data\simulation,699
+Tue Jun 16 22:01:18 2026,MODIFIED,../data\simulation\file_19.locked,704
+Thu Jun 18 18:11:26 2026,MODIFIED,../data\simulation,5
+Thu Jun 18 18:11:26 2026,CREATED,../data\simulation\file_0.txt,7
+Thu Jun 18 18:11:26 2026,MODIFIED,../data\simulation\file_0.txt,12
+Thu Jun 18 18:11:26 2026,MODIFIED,../data\simulation,17
+Thu Jun 18 18:11:26 2026,CREATED,../data\simulation\file_1.txt,19
+Thu Jun 18 18:11:26 2026,MODIFIED,../data\simulation\file_1.txt,24
+Thu Jun 18 18:11:27 2026,MODIFIED,../data\simulation,29
+Thu Jun 18 18:11:27 2026,CREATED,../data\simulation\file_2.txt,31
+Thu Jun 18 18:11:27 2026,MODIFIED,../data\simulation\file_2.txt,36
+Thu Jun 18 18:11:27 2026,CREATED,../data\simulation\file_3.txt,38
+Thu Jun 18 18:11:27 2026,MODIFIED,../data\simulation\file_3.txt,43
+Thu Jun 18 18:11:27 2026,MODIFIED,../data\simulation,48
+Thu Jun 18 18:11:27 2026,CREATED,../data\simulation\file_4.txt,50
+Thu Jun 18 18:11:27 2026,MODIFIED,../data\simulation\file_4.txt,55
+Thu Jun 18 18:11:27 2026,MODIFIED,../data\simulation,60
+Thu Jun 18 18:11:27 2026,CREATED,../data\simulation\file_5.txt,62
+Thu Jun 18 18:11:27 2026,MODIFIED,../data\simulation\file_5.txt,67
+Thu Jun 18 18:11:27 2026,MODIFIED,../data\simulation,72
+Thu Jun 18 18:11:27 2026,CREATED,../data\simulation\file_6.txt,74
+Thu Jun 18 18:11:27 2026,MODIFIED,../data\simulation\file_6.txt,79
+Thu Jun 18 18:11:28 2026,MODIFIED,../data\simulation,84
+Thu Jun 18 18:11:28 2026,CREATED,../data\simulation\file_7.txt,86
+Thu Jun 18 18:11:28 2026,MODIFIED,../data\simulation\file_7.txt,91
+Thu Jun 18 18:11:28 2026,MODIFIED,../data\simulation,96
+Thu Jun 18 18:11:28 2026,CREATED,../data\simulation\file_8.txt,98
+Thu Jun 18 18:11:28 2026,MODIFIED,../data\simulation\file_8.txt,103
+Thu Jun 18 18:11:28 2026,MODIFIED,../data\simulation,108
+Thu Jun 18 18:11:28 2026,CREATED,../data\simulation\file_9.txt,110
+Thu Jun 18 18:11:28 2026,MODIFIED,../data\simulation\file_9.txt,115
+Thu Jun 18 18:11:28 2026,MODIFIED,../data\simulation,120
+Thu Jun 18 18:11:28 2026,CREATED,../data\simulation\file_10.txt,122
+Thu Jun 18 18:11:28 2026,MODIFIED,../data\simulation\file_10.txt,127
+Thu Jun 18 18:11:28 2026,MODIFIED,../data\simulation,132
+Thu Jun 18 18:11:28 2026,CREATED,../data\simulation\file_11.txt,134
+Thu Jun 18 18:11:28 2026,MODIFIED,../data\simulation\file_11.txt,139
+Thu Jun 18 18:11:29 2026,MODIFIED,../data\simulation,144
+Thu Jun 18 18:11:29 2026,CREATED,../data\simulation\file_12.txt,146
+Thu Jun 18 18:11:29 2026,MODIFIED,../data\simulation\file_12.txt,151
+Thu Jun 18 18:11:29 2026,MODIFIED,../data\simulation,156
+Thu Jun 18 18:11:29 2026,CREATED,../data\simulation\file_13.txt,158
+Thu Jun 18 18:11:29 2026,MODIFIED,../data\simulation\file_13.txt,163
+Thu Jun 18 18:11:29 2026,MODIFIED,../data\simulation,168
+Thu Jun 18 18:11:29 2026,CREATED,../data\simulation\file_14.txt,170
+Thu Jun 18 18:11:29 2026,MODIFIED,../data\simulation\file_14.txt,175
+Thu Jun 18 18:11:29 2026,MODIFIED,../data\simulation,180
+Thu Jun 18 18:11:29 2026,CREATED,../data\simulation\file_15.txt,182
+Thu Jun 18 18:11:29 2026,MODIFIED,../data\simulation\file_15.txt,187
+Thu Jun 18 18:11:29 2026,MODIFIED,../data\simulation,192
+Thu Jun 18 18:11:29 2026,CREATED,../data\simulation\file_16.txt,194
+Thu Jun 18 18:11:29 2026,MODIFIED,../data\simulation\file_16.txt,199
+Thu Jun 18 18:11:30 2026,MODIFIED,../data\simulation,204
+Thu Jun 18 18:11:30 2026,CREATED,../data\simulation\file_17.txt,206
+Thu Jun 18 18:11:30 2026,MODIFIED,../data\simulation\file_17.txt,211
+Thu Jun 18 18:11:30 2026,MODIFIED,../data\simulation,216
+Thu Jun 18 18:11:30 2026,CREATED,../data\simulation\file_18.txt,218
+Thu Jun 18 18:11:30 2026,MODIFIED,../data\simulation\file_18.txt,223
+Thu Jun 18 18:11:30 2026,MODIFIED,../data\simulation,228
+Thu Jun 18 18:11:30 2026,CREATED,../data\simulation\file_19.txt,230
+Thu Jun 18 18:11:30 2026,MODIFIED,../data\simulation\file_19.txt,235
+Thu Jun 18 18:11:30 2026,MODIFIED,../data\simulation,240
+Thu Jun 18 18:11:30 2026,MODIFIED,../data\simulation\file_0.txt,245
+Thu Jun 18 18:11:30 2026,MODIFIED,../data\simulation\file_1.txt,250
+Thu Jun 18 18:11:31 2026,MODIFIED,../data\simulation\file_2.txt,255
+Thu Jun 18 18:11:31 2026,MODIFIED,../data\simulation\file_3.txt,260
+Thu Jun 18 18:11:31 2026,MODIFIED,../data\simulation\file_4.txt,265
+Thu Jun 18 18:11:31 2026,MODIFIED,../data\simulation\file_5.txt,270
+Thu Jun 18 18:11:32 2026,MODIFIED,../data\simulation\file_6.txt,275
+Thu Jun 18 18:11:32 2026,MODIFIED,../data\simulation\file_7.txt,280
+Thu Jun 18 18:11:32 2026,MODIFIED,../data\simulation\file_8.txt,285
+Thu Jun 18 18:11:32 2026,MODIFIED,../data\simulation\file_9.txt,290
+Thu Jun 18 18:11:32 2026,MODIFIED,../data\simulation\file_10.txt,295
+Thu Jun 18 18:11:33 2026,MODIFIED,../data\simulation\file_11.txt,300
+Thu Jun 18 18:11:33 2026,MODIFIED,../data\simulation\file_12.txt,305
+Thu Jun 18 18:11:33 2026,MODIFIED,../data\simulation\file_13.txt,310
+Thu Jun 18 18:11:33 2026,MODIFIED,../data\simulation\file_14.txt,315
+Thu Jun 18 18:11:33 2026,MODIFIED,../data\simulation\file_15.txt,320
+Thu Jun 18 18:11:34 2026,MODIFIED,../data\simulation\file_16.txt,325
+Thu Jun 18 18:11:34 2026,MODIFIED,../data\simulation\file_17.txt,330
+Thu Jun 18 18:11:34 2026,MODIFIED,../data\simulation\file_18.txt,335
+Thu Jun 18 18:11:34 2026,MODIFIED,../data\simulation\file_19.txt,340
+Thu Jun 18 18:25:02 2026,CREATED,../data\New Text Document.txt,2
+Thu Jun 18 18:25:07 2026,RENAMED,../data\Nozimanga.txt,10
+Thu Jun 18 18:25:57 2026,MODIFIED,../data\Nozimanga.txt,15
+Thu Jun 18 18:26:13 2026,DELETED,../data\Nozimanga.txt,25
+Thu Jun 18 18:27:45 2026,CREATED,../data\simulation,27
+Thu Jun 18 18:27:45 2026,CREATED,../data\simulation\file_0.txt,29
+Thu Jun 18 18:27:45 2026,MODIFIED,../data\simulation\file_0.txt,34
+Thu Jun 18 18:27:46 2026,MODIFIED,../data\simulation,39
+Thu Jun 18 18:27:46 2026,CREATED,../data\simulation\file_1.txt,41
+Thu Jun 18 18:27:46 2026,MODIFIED,../data\simulation\file_1.txt,46
+Thu Jun 18 18:27:46 2026,MODIFIED,../data\simulation,51
+Thu Jun 18 18:27:46 2026,CREATED,../data\simulation\file_2.txt,53
+Thu Jun 18 18:27:46 2026,MODIFIED,../data\simulation\file_2.txt,58
+Thu Jun 18 18:27:46 2026,MODIFIED,../data\simulation,63
+Thu Jun 18 18:27:46 2026,CREATED,../data\simulation\file_3.txt,65
+Thu Jun 18 18:27:46 2026,MODIFIED,../data\simulation\file_3.txt,70
+Thu Jun 18 18:27:46 2026,MODIFIED,../data\simulation,75
+Thu Jun 18 18:27:46 2026,CREATED,../data\simulation\file_4.txt,77
+Thu Jun 18 18:27:46 2026,MODIFIED,../data\simulation\file_4.txt,82
+Thu Jun 18 18:27:47 2026,MODIFIED,../data\simulation,87
+Thu Jun 18 18:27:47 2026,CREATED,../data\simulation\file_5.txt,89
+Thu Jun 18 18:27:47 2026,MODIFIED,../data\simulation\file_5.txt,94
+Thu Jun 18 18:27:47 2026,MODIFIED,../data\simulation,99
+Thu Jun 18 18:27:47 2026,CREATED,../data\simulation\file_6.txt,101
+Thu Jun 18 18:27:47 2026,MODIFIED,../data\simulation\file_6.txt,106
+Thu Jun 18 18:27:47 2026,MODIFIED,../data\simulation,111
+Thu Jun 18 18:27:47 2026,CREATED,../data\simulation\file_7.txt,113
+Thu Jun 18 18:27:47 2026,MODIFIED,../data\simulation\file_7.txt,118
+Thu Jun 18 18:27:47 2026,MODIFIED,../data\simulation,123
+Thu Jun 18 18:27:47 2026,CREATED,../data\simulation\file_8.txt,125
+Thu Jun 18 18:27:47 2026,MODIFIED,../data\simulation\file_8.txt,130
+Thu Jun 18 18:27:47 2026,MODIFIED,../data\simulation,135
+Thu Jun 18 18:27:47 2026,CREATED,../data\simulation\file_9.txt,137
+Thu Jun 18 18:27:47 2026,MODIFIED,../data\simulation\file_9.txt,142
+Thu Jun 18 18:27:48 2026,MODIFIED,../data\simulation,147
+Thu Jun 18 18:27:48 2026,CREATED,../data\simulation\file_10.txt,149
+Thu Jun 18 18:27:48 2026,MODIFIED,../data\simulation\file_10.txt,154
+Thu Jun 18 18:27:48 2026,MODIFIED,../data\simulation,159
+Thu Jun 18 18:27:48 2026,CREATED,../data\simulation\file_11.txt,161
+Thu Jun 18 18:27:48 2026,MODIFIED,../data\simulation\file_11.txt,166
+Thu Jun 18 18:27:48 2026,MODIFIED,../data\simulation,171
+Thu Jun 18 18:27:48 2026,CREATED,../data\simulation\file_12.txt,173
+Thu Jun 18 18:27:48 2026,MODIFIED,../data\simulation\file_12.txt,178
+Thu Jun 18 18:27:48 2026,MODIFIED,../data\simulation,183
+Thu Jun 18 18:27:48 2026,CREATED,../data\simulation\file_13.txt,185
+Thu Jun 18 18:27:48 2026,MODIFIED,../data\simulation\file_13.txt,190
+Thu Jun 18 18:27:48 2026,MODIFIED,../data\simulation,195
+Thu Jun 18 18:27:48 2026,CREATED,../data\simulation\file_14.txt,197
+Thu Jun 18 18:27:48 2026,MODIFIED,../data\simulation\file_14.txt,202
+Thu Jun 18 18:27:48 2026,MODIFIED,../data\simulation,207
+Thu Jun 18 18:27:49 2026,CREATED,../data\simulation\file_15.txt,209
+Thu Jun 18 18:27:49 2026,MODIFIED,../data\simulation\file_15.txt,214
+Thu Jun 18 18:27:49 2026,MODIFIED,../data\simulation,219
+Thu Jun 18 18:27:49 2026,CREATED,../data\simulation\file_16.txt,221
+Thu Jun 18 18:27:49 2026,MODIFIED,../data\simulation\file_16.txt,226
+Thu Jun 18 18:27:49 2026,MODIFIED,../data\simulation,231
+Thu Jun 18 18:27:49 2026,CREATED,../data\simulation\file_17.txt,233
+Thu Jun 18 18:27:49 2026,MODIFIED,../data\simulation\file_17.txt,238
+Thu Jun 18 18:27:49 2026,MODIFIED,../data\simulation,243
+Thu Jun 18 18:27:49 2026,CREATED,../data\simulation\file_18.txt,245
+Thu Jun 18 18:27:49 2026,MODIFIED,../data\simulation\file_18.txt,250
+Thu Jun 18 18:27:49 2026,MODIFIED,../data\simulation,255
+Thu Jun 18 18:27:49 2026,CREATED,../data\simulation\file_19.txt,257
+Thu Jun 18 18:27:49 2026,MODIFIED,../data\simulation\file_19.txt,262
+Thu Jun 18 18:27:50 2026,MODIFIED,../data\simulation,267
+Thu Jun 18 18:27:50 2026,MODIFIED,../data\simulation\file_0.txt,272
+Thu Jun 18 18:27:50 2026,MODIFIED,../data\simulation\file_1.txt,277
+Thu Jun 18 18:27:50 2026,MODIFIED,../data\simulation\file_2.txt,282
+Thu Jun 18 18:27:50 2026,MODIFIED,../data\simulation\file_3.txt,287
+Thu Jun 18 18:27:50 2026,MODIFIED,../data\simulation\file_4.txt,292
+Thu Jun 18 18:27:51 2026,MODIFIED,../data\simulation\file_5.txt,297
+Thu Jun 18 18:27:51 2026,MODIFIED,../data\simulation\file_6.txt,302
+Thu Jun 18 18:27:51 2026,MODIFIED,../data\simulation\file_7.txt,307
+Thu Jun 18 18:27:51 2026,MODIFIED,../data\simulation\file_8.txt,312
+Thu Jun 18 18:27:51 2026,MODIFIED,../data\simulation\file_9.txt,317
+Thu Jun 18 18:27:52 2026,MODIFIED,../data\simulation\file_10.txt,322
+Thu Jun 18 18:27:52 2026,MODIFIED,../data\simulation\file_11.txt,327
+Thu Jun 18 18:27:52 2026,MODIFIED,../data\simulation\file_12.txt,332
+Thu Jun 18 18:27:52 2026,MODIFIED,../data\simulation\file_13.txt,337
+Thu Jun 18 18:27:52 2026,MODIFIED,../data\simulation\file_14.txt,342
+Thu Jun 18 18:27:53 2026,MODIFIED,../data\simulation\file_15.txt,347
+Thu Jun 18 18:27:53 2026,MODIFIED,../data\simulation\file_16.txt,352
+Thu Jun 18 18:27:53 2026,MODIFIED,../data\simulation\file_17.txt,357
+Thu Jun 18 18:27:53 2026,MODIFIED,../data\simulation\file_18.txt,362
+Thu Jun 18 18:27:53 2026,MODIFIED,../data\simulation\file_19.txt,367
+Thu Jun 18 18:27:54 2026,RENAMED,../data\simulation\file_0.locked,375
+Thu Jun 18 18:27:54 2026,MODIFIED,../data\simulation,380
+Thu Jun 18 18:27:54 2026,MODIFIED,../data\simulation\file_0.locked,385
+Thu Jun 18 18:27:54 2026,RENAMED,../data\simulation\file_1.locked,393
+Thu Jun 18 18:27:54 2026,MODIFIED,../data\simulation,398
+Thu Jun 18 18:27:54 2026,MODIFIED,../data\simulation\file_1.locked,403
+Thu Jun 18 18:27:54 2026,RENAMED,../data\simulation\file_2.locked,411
+Thu Jun 18 18:27:54 2026,MODIFIED,../data\simulation,416
+Thu Jun 18 18:27:54 2026,MODIFIED,../data\simulation\file_2.locked,421
+Thu Jun 18 18:27:54 2026,RENAMED,../data\simulation\file_3.locked,429
+Thu Jun 18 18:27:54 2026,MODIFIED,../data\simulation,434
+Thu Jun 18 18:27:54 2026,MODIFIED,../data\simulation\file_3.locked,439
+Thu Jun 18 18:27:55 2026,RENAMED,../data\simulation\file_4.locked,447
+Thu Jun 18 18:27:55 2026,MODIFIED,../data\simulation,452
+Thu Jun 18 18:27:55 2026,MODIFIED,../data\simulation\file_4.locked,457
+Thu Jun 18 18:27:55 2026,RENAMED,../data\simulation\file_5.locked,465
+Thu Jun 18 18:27:55 2026,MODIFIED,../data\simulation,470
+Thu Jun 18 18:27:55 2026,MODIFIED,../data\simulation\file_5.locked,475
+Thu Jun 18 18:27:55 2026,RENAMED,../data\simulation\file_6.locked,483
+Thu Jun 18 18:27:55 2026,MODIFIED,../data\simulation,488
+Thu Jun 18 18:27:55 2026,MODIFIED,../data\simulation\file_6.locked,493
+Thu Jun 18 18:27:55 2026,RENAMED,../data\simulation\file_7.locked,501
+Thu Jun 18 18:27:55 2026,MODIFIED,../data\simulation,506
+Thu Jun 18 18:27:55 2026,MODIFIED,../data\simulation\file_7.locked,511
+Thu Jun 18 18:27:55 2026,RENAMED,../data\simulation\file_8.locked,519
+Thu Jun 18 18:27:55 2026,MODIFIED,../data\simulation,524
+Thu Jun 18 18:27:55 2026,MODIFIED,../data\simulation\file_8.locked,529
+Thu Jun 18 18:27:56 2026,RENAMED,../data\simulation\file_9.locked,537
+Thu Jun 18 18:27:56 2026,MODIFIED,../data\simulation,542
+Thu Jun 18 18:27:56 2026,MODIFIED,../data\simulation\file_9.locked,547
+Thu Jun 18 18:27:56 2026,RENAMED,../data\simulation\file_10.locked,555
+Thu Jun 18 18:27:56 2026,MODIFIED,../data\simulation,560
+Thu Jun 18 18:27:56 2026,MODIFIED,../data\simulation\file_10.locked,565
+Thu Jun 18 18:27:56 2026,RENAMED,../data\simulation\file_11.locked,573
+Thu Jun 18 18:27:56 2026,MODIFIED,../data\simulation,578
+Thu Jun 18 18:27:56 2026,MODIFIED,../data\simulation\file_11.locked,583
+Thu Jun 18 18:27:56 2026,RENAMED,../data\simulation\file_12.locked,591
+Thu Jun 18 18:27:56 2026,MODIFIED,../data\simulation,596
+Thu Jun 18 18:27:56 2026,MODIFIED,../data\simulation\file_12.locked,601
+Thu Jun 18 18:27:56 2026,RENAMED,../data\simulation\file_13.locked,609
+Thu Jun 18 18:27:56 2026,MODIFIED,../data\simulation,614
+Thu Jun 18 18:27:56 2026,MODIFIED,../data\simulation\file_13.locked,619
+Thu Jun 18 18:27:57 2026,RENAMED,../data\simulation\file_14.locked,627
+Thu Jun 18 18:27:57 2026,MODIFIED,../data\simulation,632
+Thu Jun 18 18:27:57 2026,MODIFIED,../data\simulation\file_14.locked,637
+Thu Jun 18 18:27:57 2026,RENAMED,../data\simulation\file_15.locked,645
+Thu Jun 18 18:27:57 2026,MODIFIED,../data\simulation,650
+Thu Jun 18 18:27:57 2026,MODIFIED,../data\simulation\file_15.locked,655
+Thu Jun 18 18:27:57 2026,RENAMED,../data\simulation\file_16.locked,663
+Thu Jun 18 18:27:57 2026,MODIFIED,../data\simulation,668
+Thu Jun 18 18:27:57 2026,MODIFIED,../data\simulation\file_16.locked,673
+Thu Jun 18 18:27:57 2026,RENAMED,../data\simulation\file_17.locked,681
+Thu Jun 18 18:27:57 2026,MODIFIED,../data\simulation,686
+Thu Jun 18 18:27:57 2026,MODIFIED,../data\simulation\file_17.locked,691
+Thu Jun 18 18:27:57 2026,RENAMED,../data\simulation\file_18.locked,699
+Thu Jun 18 18:27:57 2026,MODIFIED,../data\simulation,704
+Thu Jun 18 18:27:57 2026,MODIFIED,../data\simulation\file_18.locked,709
+Thu Jun 18 18:27:58 2026,RENAMED,../data\simulation\file_19.locked,717
+Thu Jun 18 18:27:58 2026,MODIFIED,../data\simulation,722
+Thu Jun 18 18:27:58 2026,MODIFIED,../data\simulation\file_19.locked,727
+Thu Jun 18 18:31:05 2026,CREATED,../data\simulation\file_0.txt,729
+Thu Jun 18 18:31:05 2026,MODIFIED,../data\simulation\file_0.txt,734
+Thu Jun 18 18:31:05 2026,MODIFIED,../data\simulation,739
+Thu Jun 18 18:31:05 2026,CREATED,../data\simulation\file_1.txt,741
+Thu Jun 18 18:31:05 2026,MODIFIED,../data\simulation\file_1.txt,746
+Thu Jun 18 18:31:05 2026,MODIFIED,../data\simulation,751
+Thu Jun 18 18:31:05 2026,CREATED,../data\simulation\file_2.txt,753
+Thu Jun 18 18:31:05 2026,MODIFIED,../data\simulation\file_2.txt,758
+Thu Jun 18 18:31:06 2026,MODIFIED,../data\simulation,763
+Thu Jun 18 18:31:06 2026,CREATED,../data\simulation\file_3.txt,765
+Thu Jun 18 18:31:06 2026,MODIFIED,../data\simulation\file_3.txt,770
+Thu Jun 18 18:31:06 2026,MODIFIED,../data\simulation,775
+Thu Jun 18 18:31:06 2026,CREATED,../data\simulation\file_4.txt,777
+Thu Jun 18 18:31:06 2026,MODIFIED,../data\simulation\file_4.txt,782
+Thu Jun 18 18:31:06 2026,MODIFIED,../data\simulation,787
+Thu Jun 18 18:31:06 2026,CREATED,../data\simulation\file_5.txt,789
+Thu Jun 18 18:31:06 2026,MODIFIED,../data\simulation\file_5.txt,794
+Thu Jun 18 18:31:06 2026,MODIFIED,../data\simulation,799
+Thu Jun 18 18:31:06 2026,CREATED,../data\simulation\file_6.txt,801
+Thu Jun 18 18:31:06 2026,MODIFIED,../data\simulation\file_6.txt,806
+Thu Jun 18 18:31:06 2026,MODIFIED,../data\simulation,811
+Thu Jun 18 18:31:06 2026,CREATED,../data\simulation\file_7.txt,813
+Thu Jun 18 18:31:06 2026,MODIFIED,../data\simulation\file_7.txt,818
+Thu Jun 18 18:31:06 2026,MODIFIED,../data\simulation,823
+Thu Jun 18 18:31:07 2026,CREATED,../data\simulation\file_8.txt,825
+Thu Jun 18 18:31:07 2026,MODIFIED,../data\simulation\file_8.txt,830
+Thu Jun 18 18:31:07 2026,MODIFIED,../data\simulation,835
+Thu Jun 18 18:31:07 2026,CREATED,../data\simulation\file_9.txt,837
+Thu Jun 18 18:31:07 2026,MODIFIED,../data\simulation\file_9.txt,842
+Thu Jun 18 18:31:07 2026,MODIFIED,../data\simulation,847
+Thu Jun 18 18:31:07 2026,CREATED,../data\simulation\file_10.txt,849
+Thu Jun 18 18:31:07 2026,MODIFIED,../data\simulation\file_10.txt,854
+Thu Jun 18 18:31:07 2026,MODIFIED,../data\simulation,859
+Thu Jun 18 18:31:07 2026,CREATED,../data\simulation\file_11.txt,861
+Thu Jun 18 18:31:07 2026,MODIFIED,../data\simulation\file_11.txt,866
+Thu Jun 18 18:31:08 2026,MODIFIED,../data\simulation,871
+Thu Jun 18 18:31:08 2026,CREATED,../data\simulation\file_12.txt,873
+Thu Jun 18 18:31:08 2026,MODIFIED,../data\simulation\file_12.txt,878
+Thu Jun 18 18:31:08 2026,MODIFIED,../data\simulation,883
+Thu Jun 18 18:31:08 2026,CREATED,../data\simulation\file_13.txt,885
+Thu Jun 18 18:31:08 2026,MODIFIED,../data\simulation\file_13.txt,890
+Thu Jun 18 18:31:08 2026,MODIFIED,../data\simulation,895
+Thu Jun 18 18:31:08 2026,CREATED,../data\simulation\file_14.txt,897
+Thu Jun 18 18:31:08 2026,MODIFIED,../data\simulation\file_14.txt,902
+Thu Jun 18 18:31:08 2026,MODIFIED,../data\simulation,907
+Thu Jun 18 18:31:08 2026,CREATED,../data\simulation\file_15.txt,909
+Thu Jun 18 18:31:08 2026,MODIFIED,../data\simulation\file_15.txt,914
+Thu Jun 18 18:31:08 2026,MODIFIED,../data\simulation,919
+Thu Jun 18 18:31:08 2026,CREATED,../data\simulation\file_16.txt,921
+Thu Jun 18 18:31:08 2026,MODIFIED,../data\simulation\file_16.txt,926
+Thu Jun 18 18:31:09 2026,MODIFIED,../data\simulation,931
+Thu Jun 18 18:31:09 2026,CREATED,../data\simulation\file_17.txt,933
+Thu Jun 18 18:31:09 2026,MODIFIED,../data\simulation\file_17.txt,938
+Thu Jun 18 18:31:09 2026,MODIFIED,../data\simulation,943
+Thu Jun 18 18:31:09 2026,CREATED,../data\simulation\file_18.txt,945
+Thu Jun 18 18:31:09 2026,MODIFIED,../data\simulation\file_18.txt,950
+Thu Jun 18 18:31:09 2026,MODIFIED,../data\simulation,955
+Thu Jun 18 18:31:09 2026,CREATED,../data\simulation\file_19.txt,957
+Thu Jun 18 18:31:09 2026,MODIFIED,../data\simulation\file_19.txt,962
+Thu Jun 18 18:31:09 2026,MODIFIED,../data\simulation,967
+Thu Jun 18 18:31:09 2026,MODIFIED,../data\simulation\file_0.txt,972
+Thu Jun 18 18:31:10 2026,MODIFIED,../data\simulation\file_1.txt,977
+Thu Jun 18 18:31:10 2026,MODIFIED,../data\simulation\file_2.txt,982
+Thu Jun 18 18:31:10 2026,MODIFIED,../data\simulation\file_3.txt,987
+Thu Jun 18 18:31:10 2026,MODIFIED,../data\simulation\file_4.txt,992
+Thu Jun 18 18:31:10 2026,MODIFIED,../data\simulation\file_5.txt,997
+Thu Jun 18 18:31:11 2026,MODIFIED,../data\simulation\file_6.txt,1002
+Thu Jun 18 18:31:11 2026,MODIFIED,../data\simulation\file_7.txt,1007
+Thu Jun 18 18:31:11 2026,MODIFIED,../data\simulation\file_8.txt,1012
+Thu Jun 18 18:31:11 2026,MODIFIED,../data\simulation\file_9.txt,1017
+Thu Jun 18 18:31:11 2026,MODIFIED,../data\simulation\file_10.txt,1022
+Thu Jun 18 18:31:12 2026,MODIFIED,../data\simulation\file_11.txt,1027
+Thu Jun 18 18:31:12 2026,MODIFIED,../data\simulation\file_12.txt,1032
+Thu Jun 18 18:31:12 2026,MODIFIED,../data\simulation\file_13.txt,1037
+Thu Jun 18 18:31:12 2026,MODIFIED,../data\simulation\file_14.txt,1042
+Thu Jun 18 18:31:12 2026,MODIFIED,../data\simulation\file_15.txt,1047
+Thu Jun 18 18:31:13 2026,MODIFIED,../data\simulation\file_16.txt,1052
+Thu Jun 18 18:31:13 2026,MODIFIED,../data\simulation\file_17.txt,1057
+Thu Jun 18 18:31:13 2026,MODIFIED,../data\simulation\file_18.txt,1062
+Thu Jun 18 18:31:13 2026,MODIFIED,../data\simulation\file_19.txt,1067
+Thu Jun 18 18:49:01 2026,DELETED,../data\simulation,1077
+Thu Jun 18 18:49:51 2026,CREATED,../data\simulation,1079
+Thu Jun 18 18:49:51 2026,CREATED,../data\simulation\file_0.txt,1081
+Thu Jun 18 18:49:51 2026,CREATED,../data\simulation\file_0.txt,1083
+Thu Jun 18 18:49:51 2026,MODIFIED,../data\simulation,1088
+Thu Jun 18 18:49:51 2026,MODIFIED,../data\simulation\file_0.txt,1093
+Thu Jun 18 18:49:52 2026,CREATED,../data\simulation\file_1.txt,1095
+Thu Jun 18 18:49:52 2026,MODIFIED,../data\simulation\file_1.txt,1100
+Thu Jun 18 18:49:52 2026,MODIFIED,../data\simulation,1105
+Thu Jun 18 18:49:52 2026,CREATED,../data\simulation\file_2.txt,1107
+Thu Jun 18 18:49:52 2026,MODIFIED,../data\simulation\file_2.txt,1112
+Thu Jun 18 18:49:52 2026,MODIFIED,../data\simulation,1117
+Thu Jun 18 18:49:52 2026,CREATED,../data\simulation\file_3.txt,1119
+Thu Jun 18 18:49:52 2026,MODIFIED,../data\simulation\file_3.txt,1124
+Thu Jun 18 18:49:52 2026,MODIFIED,../data\simulation,1129
+Thu Jun 18 18:49:52 2026,CREATED,../data\simulation\file_4.txt,1131
+Thu Jun 18 18:49:52 2026,MODIFIED,../data\simulation\file_4.txt,1136
+Thu Jun 18 18:49:52 2026,MODIFIED,../data\simulation,1141
+Thu Jun 18 18:49:52 2026,CREATED,../data\simulation\file_5.txt,1143
+Thu Jun 18 18:49:52 2026,MODIFIED,../data\simulation\file_5.txt,1148
+Thu Jun 18 18:49:52 2026,MODIFIED,../data\simulation,1153
+Thu Jun 18 18:49:53 2026,CREATED,../data\simulation\file_6.txt,1155
+Thu Jun 18 18:49:53 2026,MODIFIED,../data\simulation\file_6.txt,1160
+Thu Jun 18 18:49:53 2026,MODIFIED,../data\simulation,1165
+Thu Jun 18 18:49:53 2026,CREATED,../data\simulation\file_7.txt,1167
+Thu Jun 18 18:49:53 2026,MODIFIED,../data\simulation\file_7.txt,1172
+Thu Jun 18 18:49:53 2026,MODIFIED,../data\simulation,1177
+Thu Jun 18 18:49:53 2026,CREATED,../data\simulation\file_8.txt,1179
+Thu Jun 18 18:49:53 2026,MODIFIED,../data\simulation\file_8.txt,1184
+Thu Jun 18 18:49:53 2026,MODIFIED,../data\simulation,1189
+Thu Jun 18 18:49:53 2026,CREATED,../data\simulation\file_9.txt,1191
+Thu Jun 18 18:49:53 2026,MODIFIED,../data\simulation,1196
+Thu Jun 18 18:49:53 2026,MODIFIED,../data\simulation\file_9.txt,1201
+Thu Jun 18 18:49:53 2026,CREATED,../data\simulation\file_10.txt,1203
+Thu Jun 18 18:49:53 2026,MODIFIED,../data\simulation\file_10.txt,1208
+Thu Jun 18 18:49:54 2026,MODIFIED,../data\simulation,1213
+Thu Jun 18 18:49:54 2026,CREATED,../data\simulation\file_11.txt,1215
+Thu Jun 18 18:49:54 2026,MODIFIED,../data\simulation\file_11.txt,1220
+Thu Jun 18 18:49:54 2026,MODIFIED,../data\simulation,1225
+Thu Jun 18 18:49:54 2026,CREATED,../data\simulation\file_12.txt,1227
+Thu Jun 18 18:49:54 2026,MODIFIED,../data\simulation\file_12.txt,1232
+Thu Jun 18 18:49:54 2026,MODIFIED,../data\simulation,1237
+Thu Jun 18 18:49:54 2026,CREATED,../data\simulation\file_13.txt,1239
+Thu Jun 18 18:49:54 2026,MODIFIED,../data\simulation\file_13.txt,1244
+Thu Jun 18 18:49:54 2026,MODIFIED,../data\simulation,1249
+Thu Jun 18 18:49:54 2026,CREATED,../data\simulation\file_14.txt,1251
+Thu Jun 18 18:49:54 2026,MODIFIED,../data\simulation\file_14.txt,1256
+Thu Jun 18 18:49:55 2026,MODIFIED,../data\simulation,1261
+Thu Jun 18 18:49:55 2026,CREATED,../data\simulation\file_15.txt,1263
+Thu Jun 18 18:49:55 2026,MODIFIED,../data\simulation\file_15.txt,1268
+Thu Jun 18 18:49:55 2026,MODIFIED,../data\simulation,1273
+Thu Jun 18 18:49:55 2026,CREATED,../data\simulation\file_16.txt,1275
+Thu Jun 18 18:49:55 2026,MODIFIED,../data\simulation\file_16.txt,1280
+Thu Jun 18 18:49:55 2026,MODIFIED,../data\simulation,1285
+Thu Jun 18 18:49:55 2026,CREATED,../data\simulation\file_17.txt,1287
+Thu Jun 18 18:49:55 2026,MODIFIED,../data\simulation,1292
+Thu Jun 18 18:49:55 2026,MODIFIED,../data\simulation\file_17.txt,1297
+Thu Jun 18 18:49:55 2026,CREATED,../data\simulation\file_18.txt,1299
+Thu Jun 18 18:49:55 2026,MODIFIED,../data\simulation\file_18.txt,1304
+Thu Jun 18 18:49:55 2026,MODIFIED,../data\simulation,1309
+Thu Jun 18 18:49:55 2026,CREATED,../data\simulation\file_19.txt,1311
+Thu Jun 18 18:49:55 2026,MODIFIED,../data\simulation\file_19.txt,1316
+Thu Jun 18 18:49:56 2026,MODIFIED,../data\simulation,1321
+Thu Jun 18 18:49:56 2026,MODIFIED,../data\simulation\file_0.txt,1326
+Thu Jun 18 18:49:56 2026,MODIFIED,../data\simulation\file_1.txt,1331
+Thu Jun 18 18:49:56 2026,MODIFIED,../data\simulation\file_2.txt,1336
+Thu Jun 18 18:49:56 2026,MODIFIED,../data\simulation\file_3.txt,1341
+Thu Jun 18 18:49:56 2026,MODIFIED,../data\simulation\file_4.txt,1346
+Thu Jun 18 18:49:57 2026,MODIFIED,../data\simulation\file_5.txt,1351
+Thu Jun 18 18:49:57 2026,MODIFIED,../data\simulation\file_6.txt,1356
+Thu Jun 18 18:49:57 2026,MODIFIED,../data\simulation\file_7.txt,1361
+Thu Jun 18 18:49:57 2026,MODIFIED,../data\simulation\file_8.txt,1366
+Thu Jun 18 18:49:58 2026,MODIFIED,../data\simulation\file_9.txt,1371
+Thu Jun 18 18:49:58 2026,MODIFIED,../data\simulation\file_10.txt,1376
+Thu Jun 18 18:49:58 2026,MODIFIED,../data\simulation\file_11.txt,1381
+Thu Jun 18 18:49:58 2026,MODIFIED,../data\simulation\file_12.txt,1386
+Thu Jun 18 18:49:58 2026,MODIFIED,../data\simulation\file_13.txt,1391
+Thu Jun 18 18:49:59 2026,MODIFIED,../data\simulation\file_14.txt,1396
+Thu Jun 18 18:49:59 2026,MODIFIED,../data\simulation\file_15.txt,1401
+Thu Jun 18 18:49:59 2026,MODIFIED,../data\simulation\file_16.txt,1406
+Thu Jun 18 18:49:59 2026,MODIFIED,../data\simulation\file_17.txt,1411
+Thu Jun 18 18:49:59 2026,MODIFIED,../data\simulation\file_18.txt,1416
+Thu Jun 18 18:50:00 2026,MODIFIED,../data\simulation\file_19.txt,1421
+Thu Jun 18 18:50:00 2026,RENAMED,../data\simulation\file_0.locked,1429
+Thu Jun 18 18:50:00 2026,MODIFIED,../data\simulation,1434
+Thu Jun 18 18:50:00 2026,MODIFIED,../data\simulation\file_0.locked,1439
+Thu Jun 18 18:50:00 2026,RENAMED,../data\simulation\file_1.locked,1447
+Thu Jun 18 18:50:00 2026,MODIFIED,../data\simulation,1452
+Thu Jun 18 18:50:00 2026,MODIFIED,../data\simulation\file_1.locked,1457
+Thu Jun 18 18:50:00 2026,RENAMED,../data\simulation\file_2.locked,1465
+Thu Jun 18 18:50:00 2026,MODIFIED,../data\simulation,1470
+Thu Jun 18 18:50:00 2026,MODIFIED,../data\simulation\file_2.locked,1475
+Thu Jun 18 18:50:00 2026,RENAMED,../data\simulation\file_3.locked,1483
+Thu Jun 18 18:50:00 2026,MODIFIED,../data\simulation,1488
+Thu Jun 18 18:50:00 2026,MODIFIED,../data\simulation\file_3.locked,1493
+Thu Jun 18 18:50:01 2026,RENAMED,../data\simulation\file_4.locked,1501
+Thu Jun 18 18:50:01 2026,MODIFIED,../data\simulation,1506
+Thu Jun 18 18:50:01 2026,MODIFIED,../data\simulation\file_4.locked,1511
+Thu Jun 18 18:50:01 2026,RENAMED,../data\simulation\file_5.locked,1519
+Thu Jun 18 18:50:01 2026,MODIFIED,../data\simulation,1524
+Thu Jun 18 18:50:01 2026,MODIFIED,../data\simulation\file_5.locked,1529
+Thu Jun 18 18:50:01 2026,RENAMED,../data\simulation\file_6.locked,1537
+Thu Jun 18 18:50:01 2026,MODIFIED,../data\simulation,1542
+Thu Jun 18 18:50:01 2026,MODIFIED,../data\simulation\file_6.locked,1547
+Thu Jun 18 18:50:01 2026,RENAMED,../data\simulation\file_7.locked,1555
+Thu Jun 18 18:50:01 2026,MODIFIED,../data\simulation,1560
+Thu Jun 18 18:50:01 2026,MODIFIED,../data\simulation\file_7.locked,1565
+Thu Jun 18 18:50:01 2026,RENAMED,../data\simulation\file_8.locked,1573
+Thu Jun 18 18:50:01 2026,MODIFIED,../data\simulation,1578
+Thu Jun 18 18:50:01 2026,MODIFIED,../data\simulation\file_8.locked,1583
+Thu Jun 18 18:50:02 2026,RENAMED,../data\simulation\file_9.locked,1591
+Thu Jun 18 18:50:02 2026,MODIFIED,../data\simulation,1596
+Thu Jun 18 18:50:02 2026,MODIFIED,../data\simulation\file_9.locked,1601
+Thu Jun 18 18:50:02 2026,RENAMED,../data\simulation\file_10.locked,1609
+Thu Jun 18 18:50:02 2026,MODIFIED,../data\simulation,1614
+Thu Jun 18 18:50:02 2026,MODIFIED,../data\simulation\file_10.locked,1619
+Thu Jun 18 18:50:02 2026,RENAMED,../data\simulation\file_11.locked,1627
+Thu Jun 18 18:50:02 2026,MODIFIED,../data\simulation,1632
+Thu Jun 18 18:50:02 2026,MODIFIED,../data\simulation\file_11.locked,1637
+Thu Jun 18 18:50:02 2026,RENAMED,../data\simulation\file_12.locked,1645
+Thu Jun 18 18:50:02 2026,MODIFIED,../data\simulation,1650
+Thu Jun 18 18:50:02 2026,MODIFIED,../data\simulation\file_12.locked,1655
+Thu Jun 18 18:50:02 2026,RENAMED,../data\simulation\file_13.locked,1663
+Thu Jun 18 18:50:02 2026,MODIFIED,../data\simulation,1668
+Thu Jun 18 18:50:02 2026,MODIFIED,../data\simulation\file_13.locked,1673
+Thu Jun 18 18:50:03 2026,RENAMED,../data\simulation\file_14.locked,1681
+Thu Jun 18 18:50:03 2026,MODIFIED,../data\simulation,1686
+Thu Jun 18 18:50:03 2026,MODIFIED,../data\simulation\file_14.locked,1691
+Thu Jun 18 18:50:03 2026,RENAMED,../data\simulation\file_15.locked,1699
+Thu Jun 18 18:50:03 2026,MODIFIED,../data\simulation,1704
+Thu Jun 18 18:50:03 2026,MODIFIED,../data\simulation\file_15.locked,1709
+Thu Jun 18 18:50:03 2026,RENAMED,../data\simulation\file_16.locked,1717
+Thu Jun 18 18:50:03 2026,MODIFIED,../data\simulation,1722
+Thu Jun 18 18:50:03 2026,MODIFIED,../data\simulation\file_16.locked,1727
+Thu Jun 18 18:50:03 2026,RENAMED,../data\simulation\file_17.locked,1735
+Thu Jun 18 18:50:03 2026,MODIFIED,../data\simulation,1740
+Thu Jun 18 18:50:03 2026,MODIFIED,../data\simulation\file_17.locked,1745
+Thu Jun 18 18:50:03 2026,RENAMED,../data\simulation\file_18.locked,1753
+Thu Jun 18 18:50:03 2026,MODIFIED,../data\simulation,1758
+Thu Jun 18 18:50:03 2026,MODIFIED,../data\simulation\file_18.locked,1763
+Thu Jun 18 18:50:04 2026,RENAMED,../data\simulation\file_19.locked,1771
+Thu Jun 18 18:50:04 2026,MODIFIED,../data\simulation,1776
+Thu Jun 18 18:50:04 2026,MODIFIED,../data\simulation\file_19.locked,1781
+Thu Jun 18 18:55:19 2026,CREATED,../data\simulation\file_0.txt,1783
+Thu Jun 18 18:55:19 2026,MODIFIED,../data\simulation\file_0.txt,1788
+Thu Jun 18 18:55:19 2026,MODIFIED,../data\simulation,1793
+Thu Jun 18 18:55:19 2026,CREATED,../data\simulation\file_1.txt,1795
+Thu Jun 18 18:55:19 2026,MODIFIED,../data\simulation\file_1.txt,1800
+Thu Jun 18 18:55:20 2026,MODIFIED,../data\simulation,1805
+Thu Jun 18 18:55:20 2026,CREATED,../data\simulation\file_2.txt,1807
+Thu Jun 18 18:55:20 2026,MODIFIED,../data\simulation\file_2.txt,1812
+Thu Jun 18 18:55:20 2026,MODIFIED,../data\simulation,1817
+Thu Jun 18 18:55:20 2026,CREATED,../data\simulation\file_3.txt,1819
+Thu Jun 18 18:55:20 2026,MODIFIED,../data\simulation\file_3.txt,1824
+Thu Jun 18 18:55:20 2026,MODIFIED,../data\simulation,1829
+Thu Jun 18 18:55:20 2026,CREATED,../data\simulation\file_4.txt,1831
+Thu Jun 18 18:55:20 2026,MODIFIED,../data\simulation\file_4.txt,1836
+Thu Jun 18 18:55:20 2026,MODIFIED,../data\simulation,1841
+Thu Jun 18 18:55:20 2026,CREATED,../data\simulation\file_5.txt,1843
+Thu Jun 18 18:55:20 2026,MODIFIED,../data\simulation\file_5.txt,1848
+Thu Jun 18 18:55:20 2026,MODIFIED,../data\simulation,1853
+Thu Jun 18 18:55:20 2026,CREATED,../data\simulation\file_6.txt,1855
+Thu Jun 18 18:55:20 2026,MODIFIED,../data\simulation\file_6.txt,1860
+Thu Jun 18 18:55:21 2026,MODIFIED,../data\simulation,1865
+Thu Jun 18 18:55:21 2026,CREATED,../data\simulation\file_7.txt,1867
+Thu Jun 18 18:55:21 2026,MODIFIED,../data\simulation\file_7.txt,1872
+Thu Jun 18 18:55:21 2026,MODIFIED,../data\simulation,1877
+Thu Jun 18 18:55:21 2026,CREATED,../data\simulation\file_8.txt,1879
+Thu Jun 18 18:55:21 2026,MODIFIED,../data\simulation\file_8.txt,1884
+Thu Jun 18 18:55:21 2026,MODIFIED,../data\simulation,1889
+Thu Jun 18 18:55:21 2026,CREATED,../data\simulation\file_9.txt,1891
+Thu Jun 18 18:55:21 2026,MODIFIED,../data\simulation\file_9.txt,1896
+Thu Jun 18 18:55:21 2026,MODIFIED,../data\simulation,1901
+Thu Jun 18 18:55:21 2026,CREATED,../data\simulation\file_10.txt,1903
+Thu Jun 18 18:55:21 2026,MODIFIED,../data\simulation\file_10.txt,1908
+Thu Jun 18 18:55:21 2026,MODIFIED,../data\simulation,1913
+Thu Jun 18 18:55:21 2026,CREATED,../data\simulation\file_11.txt,1915
+Thu Jun 18 18:55:21 2026,MODIFIED,../data\simulation\file_11.txt,1920
+Thu Jun 18 18:55:22 2026,MODIFIED,../data\simulation,1925
+Thu Jun 18 18:55:22 2026,CREATED,../data\simulation\file_12.txt,1927
+Thu Jun 18 18:55:22 2026,MODIFIED,../data\simulation\file_12.txt,1932
+Thu Jun 18 18:55:22 2026,MODIFIED,../data\simulation,1937
+Thu Jun 18 18:55:22 2026,CREATED,../data\simulation\file_13.txt,1939
+Thu Jun 18 18:55:22 2026,MODIFIED,../data\simulation\file_13.txt,1944
+Thu Jun 18 18:55:22 2026,MODIFIED,../data\simulation,1949
+Thu Jun 18 18:55:22 2026,CREATED,../data\simulation\file_14.txt,1951
+Thu Jun 18 18:55:22 2026,MODIFIED,../data\simulation\file_14.txt,1956
+Thu Jun 18 18:55:22 2026,MODIFIED,../data\simulation,1961
+Thu Jun 18 18:55:22 2026,CREATED,../data\simulation\file_15.txt,1963
+Thu Jun 18 18:55:22 2026,MODIFIED,../data\simulation\file_15.txt,1968
+Thu Jun 18 18:55:22 2026,MODIFIED,../data\simulation,1973
+Thu Jun 18 18:55:23 2026,CREATED,../data\simulation\file_16.txt,1975
+Thu Jun 18 18:55:23 2026,MODIFIED,../data\simulation,1980
+Thu Jun 18 18:55:23 2026,MODIFIED,../data\simulation\file_16.txt,1985
+Thu Jun 18 18:55:23 2026,CREATED,../data\simulation\file_17.txt,1987
+Thu Jun 18 18:55:23 2026,MODIFIED,../data\simulation\file_17.txt,1992
+Thu Jun 18 18:55:23 2026,MODIFIED,../data\simulation,1997
+Thu Jun 18 18:55:23 2026,CREATED,../data\simulation\file_18.txt,1999
+Thu Jun 18 18:55:23 2026,MODIFIED,../data\simulation\file_18.txt,2004
+Thu Jun 18 18:55:23 2026,MODIFIED,../data\simulation,2009
+Thu Jun 18 18:55:23 2026,CREATED,../data\simulation\file_19.txt,2011
+Thu Jun 18 18:55:23 2026,MODIFIED,../data\simulation\file_19.txt,2016
+Thu Jun 18 18:55:23 2026,MODIFIED,../data\simulation,2021
+Thu Jun 18 18:55:23 2026,MODIFIED,../data\simulation\file_0.txt,2026
+Thu Jun 18 18:55:24 2026,MODIFIED,../data\simulation\file_1.txt,2031
+Thu Jun 18 18:55:24 2026,MODIFIED,../data\simulation\file_2.txt,2036
+Thu Jun 18 18:55:24 2026,MODIFIED,../data\simulation\file_3.txt,2041
+Thu Jun 18 18:55:24 2026,MODIFIED,../data\simulation\file_4.txt,2046
+Thu Jun 18 18:55:24 2026,MODIFIED,../data\simulation\file_5.txt,2051
+Thu Jun 18 18:55:25 2026,MODIFIED,../data\simulation\file_6.txt,2056
+Thu Jun 18 18:55:25 2026,MODIFIED,../data\simulation\file_7.txt,2061
+Thu Jun 18 18:55:25 2026,MODIFIED,../data\simulation\file_8.txt,2066
+Thu Jun 18 18:55:25 2026,MODIFIED,../data\simulation\file_9.txt,2071
+Thu Jun 18 18:55:25 2026,MODIFIED,../data\simulation\file_10.txt,2076
+Thu Jun 18 18:55:26 2026,MODIFIED,../data\simulation\file_11.txt,2081
+Thu Jun 18 18:55:26 2026,MODIFIED,../data\simulation\file_12.txt,2086
+Thu Jun 18 18:55:26 2026,MODIFIED,../data\simulation\file_13.txt,2091
+Thu Jun 18 18:55:26 2026,MODIFIED,../data\simulation\file_14.txt,2096
+Thu Jun 18 18:55:26 2026,MODIFIED,../data\simulation\file_15.txt,2101
+Thu Jun 18 18:55:27 2026,MODIFIED,../data\simulation\file_16.txt,2106
+Thu Jun 18 18:55:27 2026,MODIFIED,../data\simulation\file_17.txt,2111
+Thu Jun 18 18:55:27 2026,MODIFIED,../data\simulation\file_18.txt,2116
+Thu Jun 18 18:55:27 2026,MODIFIED,../data\simulation\file_19.txt,2121
+Fri Jul  3 21:40:09 2026,DELETED,../data\simulation,10
+Fri Jul  3 21:40:54 2026,CREATED,../data\simulation,12
+Fri Jul  3 21:40:54 2026,CREATED,../data\simulation\file_0.txt,14
+Fri Jul  3 21:40:54 2026,CREATED,../data\simulation\file_0.txt,16
+Fri Jul  3 21:40:54 2026,MODIFIED,../data\simulation\file_0.txt,21
+Fri Jul  3 21:40:54 2026,MODIFIED,../data\simulation,26
+Fri Jul  3 21:40:54 2026,CREATED,../data\simulation\file_1.txt,28
+Fri Jul  3 21:40:54 2026,MODIFIED,../data\simulation\file_1.txt,33
+Fri Jul  3 21:40:54 2026,MODIFIED,../data\simulation,38
+Fri Jul  3 21:40:54 2026,CREATED,../data\simulation\file_2.txt,40
+Fri Jul  3 21:40:54 2026,MODIFIED,../data\simulation\file_2.txt,45
+Fri Jul  3 21:40:54 2026,MODIFIED,../data\simulation,50
+Fri Jul  3 21:40:54 2026,CREATED,../data\simulation\file_3.txt,52
+Fri Jul  3 21:40:54 2026,MODIFIED,../data\simulation\file_3.txt,57
+Fri Jul  3 21:40:55 2026,MODIFIED,../data\simulation,62
+Fri Jul  3 21:40:55 2026,CREATED,../data\simulation\file_4.txt,64
+Fri Jul  3 21:40:55 2026,MODIFIED,../data\simulation\file_4.txt,69
+Fri Jul  3 21:40:55 2026,MODIFIED,../data\simulation,74
+Fri Jul  3 21:40:55 2026,CREATED,../data\simulation\file_5.txt,76
+Fri Jul  3 21:40:55 2026,MODIFIED,../data\simulation\file_5.txt,81
+Fri Jul  3 21:40:55 2026,MODIFIED,../data\simulation,86
+Fri Jul  3 21:40:55 2026,CREATED,../data\simulation\file_6.txt,88
+Fri Jul  3 21:40:55 2026,MODIFIED,../data\simulation\file_6.txt,93
+Fri Jul  3 21:40:55 2026,MODIFIED,../data\simulation,98
+Fri Jul  3 21:40:55 2026,CREATED,../data\simulation\file_7.txt,100
+Fri Jul  3 21:40:55 2026,MODIFIED,../data\simulation\file_7.txt,105
+Fri Jul  3 21:40:55 2026,MODIFIED,../data\simulation,110
+Fri Jul  3 21:40:55 2026,CREATED,../data\simulation\file_8.txt,112
+Fri Jul  3 21:40:55 2026,MODIFIED,../data\simulation\file_8.txt,117
+Fri Jul  3 21:40:55 2026,MODIFIED,../data\simulation,122
+Fri Jul  3 21:40:56 2026,CREATED,../data\simulation\file_9.txt,124
+Fri Jul  3 21:40:56 2026,MODIFIED,../data\simulation\file_9.txt,129
+Fri Jul  3 21:40:56 2026,MODIFIED,../data\simulation,134
+Fri Jul  3 21:40:56 2026,CREATED,../data\simulation\file_10.txt,136
+Fri Jul  3 21:40:56 2026,MODIFIED,../data\simulation\file_10.txt,141
+Fri Jul  3 21:40:56 2026,MODIFIED,../data\simulation,146
+Fri Jul  3 21:40:56 2026,CREATED,../data\simulation\file_11.txt,148
+Fri Jul  3 21:40:56 2026,MODIFIED,../data\simulation\file_11.txt,153
+Fri Jul  3 21:40:56 2026,MODIFIED,../data\simulation,158
+Fri Jul  3 21:40:56 2026,CREATED,../data\simulation\file_12.txt,160
+Fri Jul  3 21:40:56 2026,MODIFIED,../data\simulation\file_12.txt,165
+Fri Jul  3 21:40:56 2026,MODIFIED,../data\simulation,170
+Fri Jul  3 21:40:56 2026,CREATED,../data\simulation\file_13.txt,172
+Fri Jul  3 21:40:56 2026,MODIFIED,../data\simulation\file_13.txt,177
+Fri Jul  3 21:40:57 2026,MODIFIED,../data\simulation,182
+Fri Jul  3 21:40:57 2026,CREATED,../data\simulation\file_14.txt,184
+Fri Jul  3 21:40:57 2026,MODIFIED,../data\simulation\file_14.txt,189
+Fri Jul  3 21:40:57 2026,MODIFIED,../data\simulation,194
+Fri Jul  3 21:40:57 2026,CREATED,../data\simulation\file_15.txt,196
+Fri Jul  3 21:40:57 2026,MODIFIED,../data\simulation\file_15.txt,201
+Fri Jul  3 21:40:57 2026,MODIFIED,../data\simulation,206
+Fri Jul  3 21:40:57 2026,CREATED,../data\simulation\file_16.txt,208
+Fri Jul  3 21:40:57 2026,MODIFIED,../data\simulation\file_16.txt,213
+Fri Jul  3 21:40:57 2026,MODIFIED,../data\simulation,218
+Fri Jul  3 21:40:57 2026,CREATED,../data\simulation\file_17.txt,220
+Fri Jul  3 21:40:57 2026,MODIFIED,../data\simulation\file_17.txt,225
+Fri Jul  3 21:40:57 2026,MODIFIED,../data\simulation,230
+Fri Jul  3 21:40:57 2026,CREATED,../data\simulation\file_18.txt,232
+Fri Jul  3 21:40:58 2026,MODIFIED,../data\simulation\file_18.txt,237
+Fri Jul  3 21:40:58 2026,MODIFIED,../data\simulation,242
+Fri Jul  3 21:40:58 2026,CREATED,../data\simulation\file_19.txt,244
+Fri Jul  3 21:40:58 2026,MODIFIED,../data\simulation\file_19.txt,249
+Fri Jul  3 21:40:58 2026,MODIFIED,../data\simulation,254
+Fri Jul  3 21:40:58 2026,MODIFIED,../data\simulation\file_0.txt,259
+Fri Jul  3 21:40:58 2026,MODIFIED,../data\simulation\file_1.txt,264
+Fri Jul  3 21:40:58 2026,MODIFIED,../data\simulation\file_2.txt,269
+Fri Jul  3 21:40:59 2026,MODIFIED,../data\simulation\file_3.txt,274
+Fri Jul  3 21:40:59 2026,MODIFIED,../data\simulation\file_4.txt,279
+Fri Jul  3 21:40:59 2026,MODIFIED,../data\simulation\file_5.txt,284
+Fri Jul  3 21:40:59 2026,MODIFIED,../data\simulation\file_6.txt,289
+Fri Jul  3 21:40:59 2026,MODIFIED,../data\simulation\file_7.txt,294
+Fri Jul  3 21:41:00 2026,MODIFIED,../data\simulation\file_8.txt,299
+Fri Jul  3 21:41:00 2026,MODIFIED,../data\simulation\file_9.txt,304
+Fri Jul  3 21:41:00 2026,MODIFIED,../data\simulation\file_10.txt,309
+Fri Jul  3 21:41:00 2026,MODIFIED,../data\simulation\file_11.txt,314
+Fri Jul  3 21:41:00 2026,MODIFIED,../data\simulation\file_12.txt,319
+Fri Jul  3 21:41:01 2026,MODIFIED,../data\simulation\file_13.txt,324
+Fri Jul  3 21:41:01 2026,MODIFIED,../data\simulation\file_14.txt,329
+Fri Jul  3 21:41:01 2026,MODIFIED,../data\simulation\file_15.txt,334
+Fri Jul  3 21:41:01 2026,MODIFIED,../data\simulation\file_16.txt,339
+Fri Jul  3 21:41:01 2026,MODIFIED,../data\simulation\file_17.txt,344
+Fri Jul  3 21:41:02 2026,MODIFIED,../data\simulation\file_18.txt,349
+Fri Jul  3 21:41:02 2026,MODIFIED,../data\simulation\file_19.txt,354
+Fri Jul  3 21:41:02 2026,RENAMED,../data\simulation\file_0.locked,362
+Fri Jul  3 21:41:02 2026,MODIFIED,../data\simulation,367
+Fri Jul  3 21:41:02 2026,MODIFIED,../data\simulation\file_0.locked,372
+Fri Jul  3 21:41:02 2026,RENAMED,../data\simulation\file_1.locked,380
+Fri Jul  3 21:41:02 2026,MODIFIED,../data\simulation,385
+Fri Jul  3 21:41:02 2026,MODIFIED,../data\simulation\file_1.locked,390
+Fri Jul  3 21:41:02 2026,RENAMED,../data\simulation\file_2.locked,398
+Fri Jul  3 21:41:02 2026,MODIFIED,../data\simulation,403
+Fri Jul  3 21:41:02 2026,MODIFIED,../data\simulation\file_2.locked,408
+Fri Jul  3 21:41:03 2026,RENAMED,../data\simulation\file_3.locked,416
+Fri Jul  3 21:41:03 2026,MODIFIED,../data\simulation,421
+Fri Jul  3 21:41:03 2026,MODIFIED,../data\simulation\file_3.locked,426
+Fri Jul  3 21:41:03 2026,RENAMED,../data\simulation\file_4.locked,434
+Fri Jul  3 21:41:03 2026,MODIFIED,../data\simulation,439
+Fri Jul  3 21:41:03 2026,MODIFIED,../data\simulation\file_4.locked,444
+Fri Jul  3 21:41:03 2026,RENAMED,../data\simulation\file_5.locked,452
+Fri Jul  3 21:41:03 2026,MODIFIED,../data\simulation,457
+Fri Jul  3 21:41:03 2026,MODIFIED,../data\simulation\file_5.locked,462
+Fri Jul  3 21:41:03 2026,RENAMED,../data\simulation\file_6.locked,470
+Fri Jul  3 21:41:03 2026,MODIFIED,../data\simulation,475
+Fri Jul  3 21:41:03 2026,MODIFIED,../data\simulation\file_6.locked,480
+Fri Jul  3 21:41:03 2026,RENAMED,../data\simulation\file_7.locked,488
+Fri Jul  3 21:41:03 2026,MODIFIED,../data\simulation,493
+Fri Jul  3 21:41:03 2026,MODIFIED,../data\simulation\file_7.locked,498
+Fri Jul  3 21:41:04 2026,RENAMED,../data\simulation\file_8.locked,506
+Fri Jul  3 21:41:04 2026,MODIFIED,../data\simulation,511
+Fri Jul  3 21:41:04 2026,MODIFIED,../data\simulation\file_8.locked,516
+Fri Jul  3 21:41:04 2026,RENAMED,../data\simulation\file_9.locked,524
+Fri Jul  3 21:41:04 2026,MODIFIED,../data\simulation,529
+Fri Jul  3 21:41:04 2026,MODIFIED,../data\simulation\file_9.locked,534
+Fri Jul  3 21:41:04 2026,RENAMED,../data\simulation\file_10.locked,542
+Fri Jul  3 21:41:04 2026,MODIFIED,../data\simulation,547
+Fri Jul  3 21:41:04 2026,MODIFIED,../data\simulation\file_10.locked,552
+Fri Jul  3 21:41:04 2026,RENAMED,../data\simulation\file_11.locked,560
+Fri Jul  3 21:41:04 2026,MODIFIED,../data\simulation,565
+Fri Jul  3 21:41:04 2026,MODIFIED,../data\simulation\file_11.locked,570
+Fri Jul  3 21:41:04 2026,RENAMED,../data\simulation\file_12.locked,578
+Fri Jul  3 21:41:04 2026,MODIFIED,../data\simulation,583
+Fri Jul  3 21:41:04 2026,MODIFIED,../data\simulation\file_12.locked,588
+Fri Jul  3 21:41:05 2026,RENAMED,../data\simulation\file_13.locked,596
+Fri Jul  3 21:41:05 2026,MODIFIED,../data\simulation,601
+Fri Jul  3 21:41:05 2026,MODIFIED,../data\simulation\file_13.locked,606
+Fri Jul  3 21:41:05 2026,RENAMED,../data\simulation\file_14.locked,614
+Fri Jul  3 21:41:05 2026,MODIFIED,../data\simulation,619
+Fri Jul  3 21:41:05 2026,MODIFIED,../data\simulation\file_14.locked,624
+Fri Jul  3 21:41:05 2026,RENAMED,../data\simulation\file_15.locked,632
+Fri Jul  3 21:41:05 2026,MODIFIED,../data\simulation,637
+Fri Jul  3 21:41:05 2026,MODIFIED,../data\simulation\file_15.locked,642
+Fri Jul  3 21:41:05 2026,RENAMED,../data\simulation\file_16.locked,650
+Fri Jul  3 21:41:05 2026,MODIFIED,../data\simulation,655
+Fri Jul  3 21:41:05 2026,MODIFIED,../data\simulation\file_16.locked,660
+Fri Jul  3 21:41:05 2026,RENAMED,../data\simulation\file_17.locked,668
+Fri Jul  3 21:41:05 2026,MODIFIED,../data\simulation,673
+Fri Jul  3 21:41:05 2026,MODIFIED,../data\simulation\file_17.locked,678
+Fri Jul  3 21:41:06 2026,RENAMED,../data\simulation\file_18.locked,686
+Fri Jul  3 21:41:06 2026,MODIFIED,../data\simulation,691
+Fri Jul  3 21:41:06 2026,MODIFIED,../data\simulation\file_18.locked,696
+Fri Jul  3 21:41:06 2026,RENAMED,../data\simulation\file_19.locked,704
+Fri Jul  3 21:41:06 2026,MODIFIED,../data\simulation,709
+Fri Jul  3 21:41:06 2026,MODIFIED,../data\simulation\file_19.locked,714
