@@ -1,12 +1,12 @@
-\# RansoTrail: Ransomware Early Detection and Warning System
+# RansoTrail: Ransomware Early Detection and Warning System
 
 
 
-\## Overview
+## 📄 Overview
 
 
 
-RansoTrail is a Python based ransomware detection and prediction platform designed to identify, correlate, analyze, and visualize ransomware-related activities on a Windows system. The project consists of multiple monitors to detect suspicious behavior associated with ransomware attacks, calculate threat severity, predict potential impact, and warning the user.
+RansoTrail is a Python based ransomware detection and prediction platform designed to identify, correlate, analyze, and visualize ransomware related activities on a Windows system. The project consists of multiple monitors to detect suspicious behavior associated with ransomware attacks, calculate threat severity, predict potential impact, and warning the user.
 
 
 
@@ -14,15 +14,15 @@ The platform was developed to help organizations take measures towards any minor
 
 
 
-\---
+---
 
 
 
-\## Key Features
+## 📂 Key Features
 
 
 
-\### File Activity Monitor
+### File Activity Monitor
 
 
 
@@ -30,7 +30,7 @@ Monitors file system activity including file creation, modification, deletion, l
 
 
 
-\### PowerShell Activity Monitor
+### PowerShell Activity Monitor
 
 
 
@@ -38,7 +38,7 @@ Detects PowerShell execution activity commonly used by attackers for malware dep
 
 
 
-\### Registry Monitor
+### Registry Monitor
 
 
 
@@ -46,7 +46,7 @@ Tracks suspicious registry changes that may indicate persistence mechanisms or r
 
 
 
-\### Privilege Escalation Detector
+### Privilege Escalation Detector
 
 
 
@@ -54,7 +54,7 @@ Identifies attempts to gain elevated privileges, a common tactic used by threat 
 
 
 
-\### Threat Correlation Engine
+### Threat Correlation Engine
 
 
 
@@ -62,7 +62,7 @@ Correlates events from multiple monitors to improve detection accuracy and reduc
 
 
 
-\### Risk Scoring System
+### Risk Scoring System
 
 
 
@@ -70,7 +70,7 @@ Calculates ransomware risk scores based on observed behaviors and assigns threat
 
 
 
-\### Prediction Engine
+### Prediction Engine
 
 
 
@@ -78,9 +78,9 @@ Provides:
 
 
 
-\* Time-to-Compromise Estimation
+* Time-to-Compromise Estimation
 
-\* Financial Impact Estimation
+* Financial Impact Estimation
 
 
 
@@ -88,7 +88,7 @@ to help assess the time left before a large-scale attack occurs and the financia
 
 
 
-\### Incident Report Generation
+### Incident Report Generation
 
 
 
@@ -96,65 +96,55 @@ Automatically generates incident reports when significant threats are detected, 
 
 
 
-\### Security Analytics Dashboard
+### Attack Simulation Dashboard
 
 
 
-Visualizes threat activity, risk trends, attack indicators, and monitoring performance from an attack simulation during the testing of the monitors, through an interactive Power BI dashboard.
+Visualizes threat activity, risk trends, attack indicators, and monitoring performance from an attack simulation during the testing of the monitors, through an interactive Power BI dashboard to evaluate the performance of the monitors.
 
 
 
-\---
+---
 
 
 
-\## Project Architecture
+## 🔗 Project Architecture
 
 
 
 ```text
 
 File Monitor
-
-&#x20;      │
+            │
+            ▼
 
 PowerShell Monitor
-
-&#x20;      │
+            │
+            ▼
 
 Registry Monitor
-
-&#x20;      │
+            │
+            ▼
 
 Privilege Escalation Monitor
-
-&#x20;      │
-
-&#x20;      ▼
+            │
+            ▼
 
 Threat Correlation Engine
-
-&#x20;      │
-
-&#x20;      ▼
+            │
+            ▼
 
 Risk Scoring System
-
-&#x20;      │
-
-&#x20;      ▼
+            │
+            ▼
 
 Prediction Engine
-
-&#x20;      │
-
-&#x20;      ▼
+            │
+            ▼
 
 Incident Reporting
-
-&#x20;      │
-
-&#x20;      ▼
+            │
+            ▼
 
 Power BI Dashboard
 
@@ -162,11 +152,11 @@ Power BI Dashboard
 
 
 
-\---
+---
 
 
 
-\## Dashboard Purpose
+## Dashboard Purpose
 
 
 
@@ -174,43 +164,45 @@ The RansoTrail Dashboard provides a centralized view of simulated ransomware att
 
 
 
-By visualizing security events and threat indicators, organizations can identify suspicious behavior early, strengthen their security posture, and implement preventative measures before incidents escalate into large-scale ransomware attacks.
+By visualizing security events and threat indicators, organizations can identify suspicious behavior early, strengthen their security posture, and implement preventative measures before incidents escalate into large-scale ransomware attacks, and also track the performance of the monitors to see if they are working optimally or they need to be updated.
 
 
 
-\---
+---
 
 
 
-\## Technologies Used
+## 🔗 Technologies Used
 
 
 
-\* Python
+* Python
 
-\* Watchdog
+* Watchdog
 
-\* Windows Registry (winreg)
+* Windows Registry (winreg)
 
-\* CSV Logging
+* CSV Logging
 
-\* PowerShell
+* PowerShell
 
-\* Power BI
+* Power BI
 
-\* Threat Correlation Logic
+* Threat Correlation Logic
 
-\* Risk Analytics
+* Risk Analytics
 
-\* Notion
-
-
-
-\---
+* Notion
+  
+* Canva
 
 
 
-\## Educational Objectives
+---
+
+
+
+## 📚 Educational Objectives
 
 
 
@@ -218,53 +210,53 @@ This project demonstrates practical implementation of:
 
 
 
-\* Cyber Threat Monitoring
+* Cyber Threat Monitoring
 
-\* Threat Detection Engineering
+* Threat Detection Engineering
 
-\* Security Event Correlation
+* Security Event Correlation
 
-\* Behavioral Analysis
+* Behavioral Analysis
 
-\* Risk Assessment
+* Risk Assessment
 
-\* Incident Response
+* Incident Response
 
-\* Security Reporting
+* Security Reporting
 
-\* Cybersecurity Data Visualization
-
-
-
-\---
+* Cybersecurity Data Visualization
 
 
 
-\## Future Enhancements
+---
 
 
 
-\* Real-time alerting system
-
-\* Email and SMS notifications
-
-\* Machine Learning-based threat prediction
-
-\* SIEM integration
-
-\* MITRE ATT\&CK mapping
-
-\* Advanced ransomware behavior analytics
-
-\* Cloud-based monitoring support
+## 🔧 Future Enhancements
 
 
 
-\---
+* Real-time alerting system
+
+* Email and SMS notifications
+
+* Machine Learning-based threat prediction
+
+* SIEM integration
+
+* MITRE ATT\&CK mapping
+
+* Advanced ransomware behavior analytics
+
+* Cloud-based monitoring support
 
 
 
-\## Disclaimer
+---
+
+
+
+## ⚠️ Disclaimer
 
 
 
